@@ -74415,10 +74415,6 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 			leer: ["8S0"],
 			rocksmash: ["8S0"],
 		},
-		eventData: [
-			{generation: 8, perfectIVs: 3, moves: ["rocksmash", "leer", "endure", "focusenergy"]},
-		],
-		eventOnly: true,
 	},
 	urshifu: {
 		acrobatics: ["8M"],
