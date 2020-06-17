@@ -33,6 +33,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	bulbasaur: {
 		learnset: {
+            grassyglide: ["8M"],
 			amnesia: ["8M", "7E", "6E", "5E", "4E"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["7V"],
@@ -133,6 +134,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	ivysaur: {
 		learnset: {
+            grassyglide: ["8M"],
 			amnesia: ["8M"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["7V"],
@@ -213,6 +215,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	venusaur: {
 		learnset: {
+            terrainpulse: ["8M"],
+            grassyglide: ["8M"],
 			amnesia: ["8M", "8V"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["7V"],
@@ -528,6 +532,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	charizard: {
 		learnset: {
+            scorchingsands: ["8M"],
+            scaleshot: ["8M"],
+            dualwingbeat: ["8M"],
 			acrobatics: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			aircutter: ["4T"],
@@ -665,6 +672,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	squirtle: {
 		learnset: {
+            flipturn: ["8M"],
 			aquajet: ["8E", "7E", "6E", "5E", "4E"],
 			aquaring: ["8E", "7E", "6E", "5E", "4E"],
 			aquatail: ["8L24", "7T", "7L28", "6T", "6L28", "5T", "5L28", "4T", "4L28"],
@@ -781,6 +789,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	wartortle: {
 		learnset: {
+            flipturn: ["8M"],
 			aquatail: ["8L30", "7T", "7L33", "6T", "6L32", "5T", "5L32", "4T", "4L32"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			aurasphere: ["8M"],
@@ -869,6 +878,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	blastoise: {
 		learnset: {
+            terrainpulse: ["8M"],
+            flipturn: ["8M"],
 			aquajet: ["8V"],
 			aquatail: ["8L30", "7T", "7L33", "6T", "6L32", "5T", "5L32", "4T", "4L32"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -1012,6 +1023,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	butterfree: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			acrobatics: ["8M", "7M", "6M", "5M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M", "3S0"],
 			aircutter: ["5D", "4T"],
@@ -1541,6 +1553,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rattataalola: {
 		learnset: {
+            mistyexplosion: ["8M"],
 			assurance: ["7L19"],
 			attract: ["7M"],
 			bite: ["8V", "7L10"],
@@ -3497,6 +3510,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	raichu: {
 		learnset: {
+            risingvoltage: ["8M"],
 			agility: ["8M", "8L1"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["7V"],
@@ -3602,6 +3616,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	raichualola: {
 		learnset: {
+            risingvoltage: ["8M"],
+            expandingforce: ["8M"],
 			agility: ["8M", "8L1"],
 			allyswitch: ["8M", "7T"],
 			attract: ["8M", "7M"],
@@ -3870,6 +3886,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sandslash: {
 		learnset: {
+            scorchingsands: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["7V"],
@@ -3961,6 +3978,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sandslashalola: {
 		learnset: {
+            steelroller: ["8M"],
+            tripleaxel: ["8M"],
+            steelroller: ["8M"],
 			aerialace: ["7M"],
 			aquatail: ["7T"],
 			attract: ["7M"],
@@ -4713,6 +4733,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	clefairy: {
 		learnset: {
+            mistyexplosion: ["8M"],
+            meteorbeam: ["8M"],
+            dualwingbeat: ["8M"],
 			afteryou: ["8L12", "7T", "7L58", "6T", "6L1", "5T", "5L52"],
 			allyswitch: ["8M"],
 			amnesia: ["8M", "8V"],
@@ -4863,6 +4886,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	clefable: {
 		learnset: {
+            mistyexplosion: ["8M"],
+            meteorbeam: ["8M"],
+            dualwingbeat: ["8M"],
 			afteryou: ["8L1", "7T", "6T", "5T"],
 			allyswitch: ["8M"],
 			amnesia: ["8M"],
@@ -5183,6 +5209,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	ninetales: {
 		learnset: {
+            burningjealousy: ["8M"],
 			agility: ["8M"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["7V"],
@@ -5274,6 +5301,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	ninetalesalola: {
 		learnset: {
+            tripleaxel: ["8M"],
+            scorchingsands: ["8M"],
 			agility: ["8M"],
 			aquatail: ["7T"],
 			attract: ["8M", "7M"],
@@ -5447,6 +5476,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	jigglypuff: {
 		learnset: {
+            steelroller: ["8M"],
+            mistyexplosion: ["8M"],
 			allyswitch: ["7T"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["8V", "7V"],
@@ -5569,6 +5600,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	wigglytuff: {
 		learnset: {
+            steelroller: ["8M"],
+            mistyexplosion: ["8M"],
+            expandingforce: ["8M"],
 			allyswitch: ["7T"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["8V", "7V"],
@@ -5939,6 +5973,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	oddish: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["8L1", "8V", "7L1", "7V", "6L1", "5L1", "4L1", "3L1", "3S1"],
 			acid: ["8L4", "8V", "7L9", "7V", "6L9", "5L9", "4L9", "3L23", "3S0"],
 			afteryou: ["8E", "7T", "7E", "6T", "6E", "5T", "5E"],
@@ -6017,6 +6052,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gloom: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["8L1", "8V", "7L1", "7V", "6L1", "5L1", "4L1", "3L1"],
 			acid: ["8L1", "8V", "7L1", "7V", "6L1", "5L1", "4L1", "3L24", "3S0"],
 			afteryou: ["7T", "6T", "5T"],
@@ -6093,6 +6129,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	vileplume: {
 		learnset: {
+            grassyglide: ["8M"],
+            corrosivegas: ["8M"],
 			absorb: ["8L1", "8V", "7V", "3L1"],
 			acid: ["8L1", "8V", "7V"],
 			afteryou: ["7T", "6T", "5T"],
@@ -6166,6 +6204,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	bellossom: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["8L1", "7V", "3L1"],
 			acid: ["8L1"],
 			afteryou: ["7T", "6T", "5T"],
@@ -6736,6 +6775,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dugtrio: {
 		learnset: {
+            scorchingsands: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			agility: ["8M", "8V"],
 			allyswitch: ["8M"],
@@ -6822,6 +6862,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dugtrioalola: {
 		learnset: {
+            scorchingsands: ["8M"],
 			aerialace: ["7M"],
 			agility: ["8M", "8V"],
 			allyswitch: ["8M"],
@@ -7164,6 +7205,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	persian: {
 		learnset: {
+            lashout: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			amnesia: ["8M", "8V"],
 			assurance: ["8M", "8L24", "7L49", "6L49", "5L49", "4L49"],
@@ -7268,6 +7310,10 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	persianalola: {
 		learnset: {
+            skittersmack: ["8M"],
+            lashout: ["8M"],
+            burningjealousy: ["8M"],
+            skittersmack: ["8M"],
 			aerialace: ["7M"],
 			amnesia: ["8M", "8V"],
 			assurance: ["8M", "8L24", "7L49"],
@@ -7353,6 +7399,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	perrserker: {
 		learnset: {
+            lashout: ["8M"],
 			amnesia: ["8M"],
 			assurance: ["8M"],
 			attract: ["8M"],
@@ -7528,6 +7575,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	golduck: {
 		learnset: {
+            flipturn: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			amnesia: ["8V", "7L41", "6L49", "5L56", "4L50"],
 			aquajet: ["7L1", "6L1", "5L1", "4L1"],
@@ -7969,6 +8017,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	arcanine: {
 		learnset: {
+            poltergeist: ["8M"],
+            scorchingsands: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			agility: ["8M", "8L1"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -8062,6 +8112,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	poliwag: {
 		learnset: {
+            risingvoltage: ["8M"],
 			amnesia: ["7V"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 			bellydrum: ["7L31", "7V", "6L31", "5L31", "4L31", "3L37"],
@@ -8231,6 +8282,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	poliwrath: {
 		learnset: {
+            coaching: ["8M"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["7V"],
 			blizzard: ["8V", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -8505,6 +8557,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	kadabra: {
 		learnset: {
+            expandingforce: ["8M"],
 			allyswitch: ["7T", "7L36", "6L24", "5M", "5L24"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["7V"],
@@ -8609,6 +8662,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	alakazam: {
 		learnset: {
+            expandingforce: ["8M"],
 			allyswitch: ["7T", "7L36", "6L24", "5M", "5L24"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 			barrier: ["8V"],
@@ -8717,6 +8771,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	machop: {
 		learnset: {
+            coaching: ["8M"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["8V", "7V"],
 			bodyslam: ["8M", "7V", "3T"],
@@ -8819,6 +8874,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	machoke: {
 		learnset: {
+            coaching: ["8M"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["8V", "7V"],
 			bodyslam: ["8M", "7V", "3T"],
@@ -8919,6 +8975,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	machamp: {
 		learnset: {
+            coaching: ["8M"],
 			assurance: ["8M"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["8V", "7V"],
@@ -9356,6 +9413,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	tentacruel: {
 		learnset: {
+            corrosivegas: ["8M"],
 			acid: ["8V", "7L1", "7V", "6L1", "5L12", "4L12", "3L19"],
 			acidspray: ["7L22", "6L22", "5L26"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
@@ -9854,6 +9912,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	golemalola: {
 		learnset: {
+            expandingforce: ["8M"],
 			allyswitch: ["7T"],
 			attract: ["7M"],
 			bide: ["8V"],
@@ -9933,6 +9992,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	ponyta: {
 		learnset: {
+            tripleaxel: ["8M"],
 			agility: ["8M", "8L20", "8V", "7L37", "7V", "6L37", "5L37", "4L33", "3L38"],
 			allyswitch: ["8M", "7T", "7E", "6E"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -10007,6 +10067,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	ponytagalar: {
 		learnset: {
+            scaleshot: ["8M"],
 			agility: ["8M", "8L20"],
 			allyswitch: ["8M"],
 			attract: ["8M"],
@@ -10055,6 +10116,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rapidash: {
 		learnset: {
+            scorchingsands: ["8M"],
 			agility: ["8M", "8L20", "8V", "7L37", "7V", "6L37", "5L37", "4L33", "3L38"],
 			allyswitch: ["8M", "7T"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -10142,6 +10204,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rapidashgalar: {
 		learnset: {
+            expandingforce: ["8M"],
+            scorchingsands: ["8M"],
 			agility: ["8M", "8L20"],
 			allyswitch: ["8M"],
 			attract: ["8M"],
@@ -10200,6 +10264,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	slowpoke: {
 		learnset: {
+            expandingforce: ["8M"],
 			afteryou: ["7T", "6T", "5T"],
 			amnesia: ["8M", "8L27", "8V", "7L41", "7V", "6L41", "5L41", "4L43", "3L36"],
 			aquatail: ["7T", "6T", "5T", "4T"],
@@ -10388,6 +10453,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	slowbro: {
 		learnset: {
+            expandingforce: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			afteryou: ["7T", "6T", "5T"],
 			amnesia: ["8M", "8L27", "8V", "7L43", "7V", "6L43", "5L43", "4L47", "3L36"],
@@ -10530,6 +10596,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	slowbrogalar: {
 		learnset: {
+            expandingforce: ["8M"],
 			amnesia: ["8M", "8L27"],
 			attract: ["8M"],
 			avalanche: ["8M"],
@@ -10620,6 +10687,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	slowking: {
 		learnset: {
+            expandingforce: ["8M"],
 			afteryou: ["7T", "6T", "5T"],
 			allyswitch: ["7T"],
 			amnesia: ["8M", "8L27"],
@@ -10742,6 +10810,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	magnemite: {
 		learnset: {
+            risingvoltage: ["8M"],
 			bide: ["7V"],
 			chargebeam: ["7M", "6M", "5M", "4M"],
 			confide: ["7M", "6M"],
@@ -10812,6 +10881,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	magneton: {
 		learnset: {
+            risingvoltage: ["8M"],
 			bide: ["7V"],
 			chargebeam: ["7M", "6M", "5M", "4M"],
 			confide: ["7M", "6M"],
@@ -10892,6 +10962,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	magnezone: {
 		learnset: {
+            steelroller: ["8M"],
+            risingvoltage: ["8M"],
 			allyswitch: ["7T"],
 			barrier: ["7L1", "6L1", "5L1", "4L1"],
 			chargebeam: ["7M", "6M", "5M", "4M"],
@@ -11121,6 +11193,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sirfetchd: {
 		learnset: {
+            grassyglide: ["8M"],
+            dualwingbeat: ["8M"],
+            coaching: ["8M"],
 			assurance: ["8M"],
 			attract: ["8M"],
 			bodyslam: ["8M"],
@@ -11925,6 +12000,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	cloyster: {
 		learnset: {
+            steelroller: ["8M"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			aurorabeam: ["8L1", "7L1", "7V", "6L1", "5L1", "4L1", "3L1"],
 			avalanche: ["8M", "4M"],
@@ -12010,6 +12086,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gastly: {
 		learnset: {
+            skittersmack: ["8M"],
+            poltergeist: ["8M"],
+            corrosivegas: ["8M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8E", "7E", "6E", "5E", "4E", "3E"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -12105,6 +12184,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	haunter: {
 		learnset: {
+            skittersmack: ["8M"],
+            poltergeist: ["8M"],
+            corrosivegas: ["8M"],
 			allyswitch: ["8M", "7T"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["7V"],
@@ -12203,6 +12285,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gengar: {
 		learnset: {
+            skittersmack: ["8M"],
+            poltergeist: ["8M"],
+            corrosivegas: ["8M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["6S4"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -12331,6 +12416,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	onix: {
 		learnset: {
+            scorchingsands: ["8M"],
+            meteorbeam: ["8M"],
 			ancientpower: ["4T"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["7V"],
@@ -12425,6 +12512,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	steelix: {
 		learnset: {
+            steelroller: ["8M"],
+            scorchingsands: ["8M"],
+            meteorbeam: ["8M"],
 			ancientpower: ["4T"],
 			aquatail: ["7T", "6T", "5T", "4T"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -13070,6 +13160,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	exeggcute: {
 		learnset: {
+            grassyglide: ["8M"],
 			ancientpower: ["7E", "7V", "6E", "5E", "4T", "4E", "3E"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 			barrage: ["8V", "7L1", "7V", "6L1", "5L1", "5D", "4L1", "3L1"],
@@ -13160,6 +13251,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	exeggutor: {
 		learnset: {
+            terrainpulse: ["8M"],
+            expandingforce: ["8M"],
 			ancientpower: ["4T", "3S0"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 			barrage: ["8V", "7L1", "7V", "6L1", "5L1", "4L1", "3L1"],
@@ -13243,6 +13336,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	exeggutoralola: {
 		learnset: {
+            terrainpulse: ["8M"],
+            grassyglide: ["8M"],
+            grassyglide: ["8M"],
 			attract: ["7M"],
 			barrage: ["8V", "7L1"],
 			block: ["7T"],
@@ -13323,6 +13419,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	cubone: {
 		learnset: {
+            scorchingsands: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			ancientpower: ["7E", "7V", "6E", "5E", "4E", "3E"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
@@ -13424,6 +13521,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	marowak: {
 		learnset: {
+            burningjealousy: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["7V"],
@@ -13533,6 +13631,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	marowakalola: {
 		learnset: {
+            poltergeist: ["8M"],
 			aerialace: ["7M"],
 			allyswitch: ["7T"],
 			attract: ["7M"],
@@ -13622,6 +13721,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	marowakalolatotem: {
 		learnset: {
+            skittersmack: ["8M"],
+            scorchingsands: ["8M"],
 			aerialace: ["7M"],
 			allyswitch: ["7T"],
 			attract: ["7M"],
@@ -13709,6 +13810,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	tyrogue: {
 		learnset: {
+            steelroller: ["8M"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			bodyslam: ["8M", "3T"],
 			brickbreak: ["8M", "7M", "6M", "5M", "4M", "3M"],
@@ -13775,6 +13877,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	hitmonlee: {
 		learnset: {
+            coaching: ["8M"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			aurasphere: ["8M"],
 			bide: ["7V"],
@@ -13875,6 +13978,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	hitmonchan: {
 		learnset: {
+            coaching: ["8M"],
 			agility: ["8M", "8L28", "8V", "7L1", "7V", "6L6", "5L6", "4L6", "3L7"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			aurasphere: ["8M"],
@@ -13972,6 +14076,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	hitmontop: {
 		learnset: {
+            tripleaxel: ["8M"],
+            coaching: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M"],
 			agility: ["8M", "8L28", "7L37", "7V", "6L37", "5L37", "4L37", "3L37"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -14056,6 +14162,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	lickitung: {
 		learnset: {
+            terrainpulse: ["8M"],
+            steelroller: ["8M"],
 			acid: ["8V"],
 			amnesia: ["7E", "6E", "5E", "4E"],
 			aquatail: ["7T", "6T", "5T", "4T"],
@@ -14181,6 +14289,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	lickilicky: {
 		learnset: {
+            terrainpulse: ["8M"],
+            steelroller: ["8M"],
 			aquatail: ["7T", "6T", "5T", "4T"],
 			attract: ["7M", "6M", "5M", "4M"],
 			bind: ["7T", "6T", "5T"],
@@ -14273,6 +14383,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	koffing: {
 		learnset: {
+            corrosivegas: ["8M"],
 			assurance: ["8M", "8L16", "7L12", "6L12", "5L15", "4L15"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			belch: ["8L40", "7L42", "6L42"],
@@ -14352,6 +14463,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	weezing: {
 		learnset: {
+            corrosivegas: ["8M"],
 			assurance: ["8M", "8L16", "7L12", "6L12", "5L15", "4L15"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			belch: ["8L44", "7L51", "6L50"],
@@ -14432,6 +14544,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	weezinggalar: {
 		learnset: {
+            mistyexplosion: ["8M"],
+            corrosivegas: ["8M"],
 			aromatherapy: ["8L24"],
 			aromaticmist: ["8L1"],
 			assurance: ["8M", "8L16"],
@@ -14494,6 +14608,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rhyhorn: {
 		learnset: {
+            scorchingsands: ["8M"],
 			ancientpower: ["4T"],
 			aquatail: ["7T", "6T", "5T", "4T"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -14603,6 +14718,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rhydon: {
 		learnset: {
+            scorchingsands: ["8M"],
+            meteorbeam: ["8M"],
 			ancientpower: ["4T"],
 			aquatail: ["7T", "6T", "5T", "4T"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -14746,6 +14863,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rhyperior: {
 		learnset: {
+            scorchingsands: ["8M"],
+            meteorbeam: ["8M"],
 			ancientpower: ["4T"],
 			aquatail: ["7T", "6T", "5T", "4T"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
@@ -15198,6 +15317,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	tangela: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["8V", "7L10", "7V", "6L10", "5L8", "4L8", "3L10"],
 			amnesia: ["8V", "7E", "7V", "6E", "5E", "4E", "3E"],
 			ancientpower: ["7L38", "6L38", "5L36", "4T", "4L33"],
@@ -15287,6 +15407,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	tangrowth: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["7L10", "6L10", "5L8", "4L8"],
 			aerialace: ["7M", "6M", "5M", "4M"],
 			ancientpower: ["7L40", "6L40", "5L36", "4T", "4L33", "4S0"],
@@ -15370,6 +15491,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	kangaskhan: {
 		learnset: {
+            terrainpulse: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			aquatail: ["7T", "6T", "5T", "4T"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
@@ -15500,6 +15622,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	horsea: {
 		learnset: {
+            scaleshot: ["8M"],
+            flipturn: ["8M"],
 			agility: ["8V", "7L36", "7V", "6L23", "5L23", "4L23", "3L36"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 			aurorabeam: ["7E", "7V", "6E", "5E", "4E", "3E"],
@@ -15575,6 +15699,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	seadra: {
 		learnset: {
+            scaleshot: ["8M"],
+            flipturn: ["8M"],
 			agility: ["8V", "7L38", "7V", "6L23", "5L23", "4L23", "3L40", "3S0"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["7V"],
@@ -15649,6 +15775,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	kingdra: {
 		learnset: {
+            scaleshot: ["8M"],
+            flipturn: ["8M"],
 			agility: ["7L38", "7V", "6L23", "5L23", "4L23", "3L40", "3S0"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 			blizzard: ["7M", "7V", "6M", "5M", "4M", "3M"],
@@ -15718,6 +15846,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	goldeen: {
 		learnset: {
+            scaleshot: ["8M"],
+            flipturn: ["8M"],
 			acupressure: ["8E"],
 			agility: ["8M", "8L20", "8V", "7L29", "7V", "6L29", "5L47", "4L47", "3L52"],
 			aquaring: ["8L25", "7L21", "6L21", "5L27", "4L27"],
@@ -15798,6 +15928,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	seaking: {
 		learnset: {
+            scaleshot: ["8M"],
+            flipturn: ["8M"],
 			agility: ["8M", "8L20", "8V", "7L29", "7V", "6L29", "5L56", "4L56", "3L61"],
 			aquaring: ["8L25", "7L21", "6L21", "5L27", "4L27"],
 			aquatail: ["7T", "6T", "5T", "4T"],
@@ -15882,6 +16014,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	staryu: {
 		learnset: {
+            flipturn: ["8M"],
 			attract: ["7V"],
 			bide: ["7V"],
 			blizzard: ["8V", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -15967,6 +16100,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	starmie: {
 		learnset: {
+            meteorbeam: ["8M"],
+            flipturn: ["8M"],
+            expandingforce: ["8M"],
 			allyswitch: ["7T"],
 			attract: ["7V"],
 			avalanche: ["4M"],
@@ -16380,6 +16516,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	mrrime: {
 		learnset: {
+            tripleaxel: ["8M"],
+            expandingforce: ["8M"],
 			afteryou: ["8L1"],
 			allyswitch: ["8M", "8L16"],
 			attract: ["8M"],
@@ -16471,6 +16609,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	scyther: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			agility: ["8V", "7L17", "7V", "6L17", "5L17", "5S2", "4L17", "3L21"],
 			airslash: ["8V", "7L50", "6L50", "5L53", "4L53"],
@@ -16559,6 +16698,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	scizor: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			acrobatics: ["7M", "6M", "5M"],
 			aerialace: ["7M", "6M", "6S5", "5M", "4M", "3M"],
 			agility: ["7L17", "7V", "6L17", "6S6", "6S5", "5L17", "4L17", "4S1", "3L21"],
@@ -17468,6 +17608,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	tauros: {
 		learnset: {
+            lashout: ["8M"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 			bide: ["7V"],
 			blizzard: ["8V", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -17586,6 +17727,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gyarados: {
 		learnset: {
+            scaleshot: ["8M"],
+            lashout: ["8M"],
 			aquatail: ["8L32", "7T", "7L30", "6T", "6L35", "5T", "5L35", "4T", "4L35"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			avalanche: ["8M", "4M"],
@@ -17959,6 +18102,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	vaporeon: {
 		learnset: {
+            flipturn: ["8M"],
 			acidarmor: ["8L45", "8V", "7L29", "7V", "6L29", "5L64", "4L64", "3L47"],
 			aquaring: ["8L35", "7L25", "6L25", "5L43", "4L43"],
 			aquatail: ["7T", "6T", "5T", "4T"],
@@ -18060,6 +18204,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	jolteon: {
 		learnset: {
+            risingvoltage: ["8M"],
 			agility: ["8M", "8L45", "8V", "7L29", "7V", "6L29", "5L64", "4L64", "3L47"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			babydolleyes: ["8L15", "7L9"],
@@ -18156,6 +18301,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	flareon: {
 		learnset: {
+            scorchingsands: ["8M"],
+            burningjealousy: ["8M"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			babydolleyes: ["8L15", "7L9"],
 			batonpass: ["8M", "8L1"],
@@ -18252,6 +18399,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	espeon: {
 		learnset: {
+            expandingforce: ["8M"],
 			allyswitch: ["8M", "7T"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			babydolleyes: ["8L15", "7L9"],
@@ -18350,6 +18498,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	umbreon: {
 		learnset: {
+            lashout: ["8M"],
 			assurance: ["8M", "8L25", "7L25", "6L25", "5L43", "4L43"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			babydolleyes: ["8L15", "7L9"],
@@ -18448,6 +18597,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	leafeon: {
 		learnset: {
+            grassyglide: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
 			babydolleyes: ["8L15", "7L9"],
@@ -18539,6 +18689,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	glaceon: {
 		learnset: {
+            tripleaxel: ["8M"],
 			aquatail: ["7T", "6T", "5T", "4T"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
 			auroraveil: ["7M", "7S2"],
@@ -19432,6 +19583,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	snorlax: {
 		learnset: {
+            terrainpulse: ["8M"],
+            steelroller: ["8M"],
 			afteryou: ["7T", "7E", "6T", "6E", "5T", "5E"],
 			amnesia: ["8M", "8L36", "8V", "7L9", "7V", "6L9", "5L9", "5D", "4L9", "3L5"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
@@ -20153,6 +20306,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	mewtwo: {
 		learnset: {
+            expandingforce: ["8M"],
+            terrainpulse: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			agility: ["8M", "8V"],
 			allyswitch: ["8M"],
@@ -20319,6 +20474,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	mew: {
 		learnset: {
+            tripleaxel: ["8M"],
 			acrobatics: ["8M", "7M", "6M", "5M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			afteryou: ["7T", "6T", "5T"],
@@ -21617,6 +21773,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	hoothoot: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			agility: ["8M", "7E", "6E", "5E", "4E"],
 			aircutter: ["4T"],
@@ -21710,6 +21867,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	noctowl: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			agility: ["8M"],
 			aircutter: ["4T"],
@@ -22121,6 +22279,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	chinchou: {
 		learnset: {
+            risingvoltage: ["8M"],
 			agility: ["8M", "7E", "6E", "5E", "4E"],
 			amnesia: ["8M", "7E", "6E", "5E", "5D", "4E", "3E"],
 			aquaring: ["8L32", "7L42", "6L42", "5L42", "4L39"],
@@ -22193,6 +22352,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	lanturn: {
 		learnset: {
+            risingvoltage: ["8M"],
 			agility: ["8M"],
 			amnesia: ["8M"],
 			aquaring: ["8L36", "7L47", "6L47", "5L52", "4L47"],
@@ -22384,6 +22544,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	togetic: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			afteryou: ["8L28", "7T", "7L53", "6T", "6L53", "5T", "5L53"],
 			aircutter: ["4T"],
@@ -22502,6 +22663,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	togekiss: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M"],
 			afteryou: ["8L1", "7T", "7L1", "6T", "6L1"],
 			aircutter: ["4T"],
@@ -22720,6 +22882,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	xatu: {
 		learnset: {
+            expandingforce: ["8M"],
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			aircutter: ["4T"],
 			airslash: ["8M", "8L0", "7L1", "6L25"],
@@ -23120,6 +23284,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	marill: {
 		learnset: {
+            mistyexplosion: ["8M"],
 			amnesia: ["7E", "7V", "6E", "5E", "4E", "3E"],
 			aquajet: ["7E", "6E", "5E", "5D", "4E"],
 			aquaring: ["7L28", "6L28", "5L23", "4L23"],
@@ -23206,6 +23371,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	azumarill: {
 		learnset: {
+            steelroller: ["8M"],
+            steelroller: ["8M"],
+            mistyexplosion: ["8M"],
 			aquaring: ["7L31", "6L31", "5L27", "4L27"],
 			aquatail: ["7T", "7L21", "6T", "6L21", "5T", "5L47", "4T", "4L47"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
@@ -23355,6 +23523,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sudowoodo: {
 		learnset: {
+            meteorbeam: ["8M"],
 			afteryou: ["7T", "6T", "5T"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			block: ["8L12", "7T", "7L29", "6T", "6L26", "5T", "5L22", "4T", "4L22", "3L33"],
@@ -24934,6 +25103,10 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dunsparce: {
 		learnset: {
+            terrainpulse: ["8M"],
+            skittersmack: ["8M"],
+            scaleshot: ["8M"],
+            dualwingbeat: ["8M"],
 			agility: ["7E", "6E", "5E", "4E"],
 			airslash: ["7L41"],
 			ancientpower: ["7L16", "7E", "7V", "6L19", "6E", "5L48", "5E", "4T", "4L41", "4E", "3E"],
@@ -25424,6 +25597,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	qwilfish: {
 		learnset: {
+            steelroller: ["8M"],
+            scaleshot: ["8M"],
 			acidspray: ["8E", "7E", "6E", "5E"],
 			acupressure: ["8L60"],
 			aquajet: ["8E", "7E", "6E", "5E", "5D", "4E"],
@@ -25517,6 +25692,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	shuckle: {
 		learnset: {
+            steelroller: ["8M"],
+            skittersmack: ["8M"],
+            meteorbeam: ["8M"],
 			acid: ["8E", "7E", "6E", "5E"],
 			acupressure: ["8E", "7E", "6E", "5E", "4E"],
 			afteryou: ["7T", "6T", "5T"],
@@ -25603,6 +25781,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	heracross: {
 		learnset: {
+            coaching: ["8M"],
 			aerialace: ["7M", "7L10", "6M", "6L10", "5M", "5L13", "4M", "4L13"],
 			armthrust: ["7L1", "6L1"],
 			attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
@@ -25695,6 +25874,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sneasel: {
 		learnset: {
+            tripleaxel: ["8M"],
+            lashout: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			agility: ["8M", "8L48", "7L20", "7V", "6L20", "5L24", "4L24", "3L36"],
 			assist: ["7E", "6E", "5E", "4E"],
@@ -25805,6 +25986,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	weavile: {
 		learnset: {
+            tripleaxel: ["8M"],
+            lashout: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M"],
 			agility: ["8M", "8L1"],
 			assurance: ["8M", "8L1", "7L1", "6L1", "5L1", "4L1"],
@@ -26509,6 +26692,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	corsola: {
 		learnset: {
+            meteorbeam: ["8M"],
 			amnesia: ["8M", "7E", "7V", "6E", "5E", "4E", "3E"],
 			ancientpower: ["8L20", "7L17", "7V", "6L17", "5L32", "4T", "4L32", "3L45"],
 			aquaring: ["8L10", "7L38", "7E", "6L38", "6E", "5L37", "5E", "4L37", "4E"],
@@ -26611,6 +26795,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	corsolagalar: {
 		learnset: {
+            meteorbeam: ["8M"],
 			amnesia: ["8M"],
 			ancientpower: ["8L20"],
 			astonish: ["8L5"],
@@ -26681,6 +26866,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	cursola: {
 		learnset: {
+            poltergeist: ["8M"],
+            meteorbeam: ["8M"],
+            burningjealousy: ["8M"],
 			amnesia: ["8M"],
 			ancientpower: ["8L20"],
 			astonish: ["8L1"],
@@ -26827,6 +27015,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	octillery: {
 		learnset: {
+            skittersmack: ["8M"],
 			assurance: ["8M"],
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			aurorabeam: ["8L16", "7L1", "7V", "6L1", "5L1", "4L1", "3L22"],
@@ -26916,6 +27105,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	delibird: {
 		learnset: {
+            tripleaxel: ["8M"],
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			agility: ["8M"],
 			assurance: ["8M"],
@@ -27075,6 +27266,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	mantine: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			acrobatics: ["8M", "7M", "6M", "5M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			agility: ["8M", "8L20", "7L32", "7V", "6L32", "5L19", "4L19", "3L29"],
@@ -27168,6 +27360,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	skarmory: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			agility: ["7L31", "7V", "6L12", "5L12", "4L12", "3L16"],
 			aircutter: ["7L12", "6L12", "5L23", "4T", "4L23", "3L29"],
@@ -27690,6 +27883,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	miltank: {
 		learnset: {
+            steelroller: ["8M"],
 			afteryou: ["7T", "6T", "5T"],
 			attract: ["7M", "7V", "6M", "6S0", "5M", "4M", "3M"],
 			belch: ["7E", "6E"],
@@ -28220,6 +28414,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	tyranitar: {
 		learnset: {
+            lashout: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			ancientpower: ["4T"],
 			aquatail: ["7T", "6T", "5T", "4T"],
@@ -28597,6 +28792,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	celebi: {
 		learnset: {
+            grassyglide: ["8M"],
+            expandingforce: ["8M"],
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			allyswitch: ["8M", "7T"],
 			ancientpower: ["8L30", "7L28", "7S7", "7V", "6L28", "5L28", "4T", "4L28", "3L20", "3S3", "3S1"],
@@ -29937,6 +30135,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	linoonegalar: {
 		learnset: {
+            lashout: ["8M"],
 			assurance: ["8M"],
 			attract: ["8M"],
 			babydolleyes: ["8L1"],
@@ -30003,6 +30202,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	obstagoon: {
 		learnset: {
+            lashout: ["8M"],
 			assurance: ["8M"],
 			attract: ["8M"],
 			babydolleyes: ["8L1"],
@@ -30256,6 +30456,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	lotad: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["8L3", "7L6", "6L5", "5L5", "5D", "4L5", "3L7", "3S0"],
 			astonish: ["8L1", "7L1", "6L1", "5L1", "4L1", "3L1", "3S0"],
 			attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
@@ -30328,6 +30529,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	lombre: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["8L1", "7L6", "6L5", "5L5", "4L5", "3L7"],
 			astonish: ["8L1", "7L1", "6L1", "5L1", "4L1", "3L1"],
 			attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
@@ -30417,6 +30619,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	ludicolo: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["8L1", "3L1"],
 			amnesia: ["8M"],
 			astonish: ["8L1", "7L1", "6L1", "5L1", "4L1", "3L1"],
@@ -30516,6 +30719,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	seedot: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["8L3"],
 			amnesia: ["8M", "7E", "6E", "5E", "4E", "3E"],
 			astonish: ["8L6"],
@@ -30594,6 +30798,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	nuzleaf: {
 		learnset: {
+            lashout: ["8M"],
+            grassyglide: ["8M"],
 			absorb: ["8L1"],
 			aircutter: ["8L1"],
 			amnesia: ["8M"],
@@ -30691,6 +30897,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	shiftry: {
 		learnset: {
+            lashout: ["8M"],
+            grassyglide: ["8M"],
 			absorb: ["8L1"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			aircutter: ["8L1", "4T"],
@@ -30944,6 +31152,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	wingull: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			aerialace: ["8E", "7M", "7L29", "6M", "6L29", "5M", "5L42", "4M", "4L42", "3M"],
 			agility: ["8M", "8L26", "7L36", "7E", "6L36", "6E", "5L37", "5E", "4L37", "4E", "3L55", "3E"],
 			aircutter: ["8E", "7L22", "6L22", "5L33", "4T"],
@@ -31015,6 +31224,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	pelipper: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			agility: ["8M", "8L1"],
 			aircutter: ["4T"],
@@ -31098,6 +31308,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	ralts: {
 		learnset: {
+            expandingforce: ["8M"],
 			allyswitch: ["8M", "7T", "7E", "6E", "5M"],
 			attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
 			bodyslam: ["8M", "3T"],
@@ -31211,6 +31422,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	kirlia: {
 		learnset: {
+            tripleaxel: ["8M"],
+            expandingforce: ["8M"],
 			allyswitch: ["8M", "7T", "5M"],
 			attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
 			bodyslam: ["8M", "3T"],
@@ -31307,6 +31520,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gardevoir: {
 		learnset: {
+            tripleaxel: ["8M"],
+            mistyexplosion: ["8M"],
+            expandingforce: ["8M"],
 			allyswitch: ["8M", "7T", "5M"],
 			attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
 			bodyslam: ["8M", "3T"],
@@ -31416,6 +31632,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gallade: {
 		learnset: {
+            tripleaxel: ["8M"],
+            expandingforce: ["8M"],
+            coaching: ["8M"],
 			aerialace: ["8L18", "7M", "7L17", "6M", "5M", "4M"],
 			airslash: ["8M"],
 			allyswitch: ["8M", "7T", "5M"],
@@ -32110,6 +32329,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	nincada: {
 		learnset: {
+            skittersmack: ["8M"],
 			absorb: ["8L21", "7L5"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			bide: ["7L29", "6L29"],
@@ -32167,6 +32387,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	ninjask: {
 		learnset: {
+            skittersmack: ["8M"],
+            dualwingbeat: ["8M"],
 			absorb: ["8L23", "7L1"],
 			acrobatics: ["8M"],
 			aerialace: ["8L1", "7M", "6M", "5M", "4M", "3M"],
@@ -32238,6 +32460,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	shedinja: {
 		learnset: {
+            skittersmack: ["8M"],
+            poltergeist: ["8M"],
 			absorb: ["8L23", "7L1"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			agility: ["8M", "4R", "3R"],
@@ -32478,6 +32702,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	exploud: {
 		learnset: {
+            terrainpulse: ["8M"],
 			astonish: ["7L1", "6L1", "5L1", "4L1", "3L1"],
 			attract: ["7M", "6M", "5M", "4M", "3M"],
 			avalanche: ["4M"],
@@ -33091,6 +33316,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sableye: {
 		learnset: {
+            poltergeist: ["8M"],
+            lashout: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8L3", "7L9", "6L9", "5L11", "4L11", "3L13"],
@@ -33800,6 +34027,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	electrike: {
 		learnset: {
+            risingvoltage: ["8M"],
 			agility: ["8M"],
 			attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
 			bite: ["8L20", "7L24", "6L24", "5L28", "4L28", "3L33"],
@@ -33868,6 +34096,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	manectric: {
 		learnset: {
+            risingvoltage: ["8M"],
 			agility: ["8M"],
 			attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
 			bite: ["8L20", "7L24", "6L24", "5L30", "4L30", "3L39", "3S0"],
@@ -34290,6 +34519,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	budew: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["8L1", "7L1", "6L1", "5L1", "4L1"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
 			bulletseed: ["8M", "4M"],
@@ -34352,6 +34582,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	roselia: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["8L1", "7L1", "6L1", "5L1", "4L1", "3L1", "3S0"],
 			aromatherapy: ["8L50", "7L43", "6L43", "5L43", "4L43", "3L53"],
 			attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
@@ -34434,6 +34665,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	roserade: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["8L1"],
 			aromatherapy: ["8L1"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
@@ -34665,6 +34897,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	carvanha: {
 		learnset: {
+            scaleshot: ["8M"],
+            flipturn: ["8M"],
 			agility: ["7L39", "6L36", "5L36", "4L36", "3L43"],
 			ancientpower: ["7E", "6E", "5E", "4T", "4E"],
 			aquajet: ["7L11", "6L11", "5L31", "4L31"],
@@ -34740,6 +34974,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sharpedo: {
 		learnset: {
+            scaleshot: ["8M"],
+            flipturn: ["8M"],
 			agility: ["7L45", "6L45", "5L45", "4L45", "3L53"],
 			ancientpower: ["4T"],
 			aquajet: ["7L11", "6L11", "6S0", "5L34", "4L34"],
@@ -34828,6 +35064,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	wailmer: {
 		learnset: {
+            steelroller: ["8M"],
 			amnesia: ["8M", "8L42", "7L37", "6L37", "5L37", "4L37", "3L46"],
 			aquaring: ["8E", "7E", "6E", "5E", "4E"],
 			astonish: ["8L6", "7L16", "6L16", "5L17", "4L17", "3L23"],
@@ -34899,6 +35136,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	wailord: {
 		learnset: {
+            steelroller: ["8M"],
 			amnesia: ["8M", "8L44", "7L37", "6L37", "5L37", "4L37", "3L52", "3S0"],
 			astonish: ["8L1", "7L16", "6L16", "5L17", "4L17", "3L23"],
 			attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
@@ -35139,6 +35377,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	torkoal: {
 		learnset: {
+            scorchingsands: ["8M"],
+            burningjealousy: ["8M"],
 			afteryou: ["7T", "6T", "5T"],
 			amnesia: ["8M", "8L52", "7L40", "6L40", "5L49", "4L49", "3L40"],
 			ancientpower: ["8E"],
@@ -35504,6 +35744,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	trapinch: {
 		learnset: {
+            scorchingsands: ["8M"],
 			astonish: ["8L1"],
 			attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
 			bide: ["7L1", "6L1", "5L17"],
@@ -35569,6 +35810,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	vibrava: {
 		learnset: {
+            scorchingsands: ["8M"],
+            dualwingbeat: ["8M"],
 			aircutter: ["4T"],
 			airslash: ["8M"],
 			astonish: ["8L1"],
@@ -35652,6 +35895,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	flygon: {
 		learnset: {
+            scorchingsands: ["8M"],
+            scaleshot: ["8M"],
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M"],
 			aircutter: ["4T"],
 			airslash: ["8M"],
@@ -36318,6 +36564,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	lunatone: {
 		learnset: {
+            meteorbeam: ["8M"],
 			acrobatics: ["8M", "7M", "6M", "5M"],
 			allyswitch: ["8M", "7T"],
 			ancientpower: ["4T"],
@@ -36420,6 +36667,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	solrock: {
 		learnset: {
+            meteorbeam: ["8M"],
 			acrobatics: ["8M", "7M", "6M", "5M"],
 			allyswitch: ["8M", "7T"],
 			ancientpower: ["4T"],
@@ -36754,6 +37002,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	crawdaunt: {
 		learnset: {
+            lashout: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			ancientpower: ["4T"],
 			attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
@@ -36852,6 +37101,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	baltoy: {
 		learnset: {
+            scorchingsands: ["8M"],
+            expandingforce: ["8M"],
 			allyswitch: ["8M", "7T", "5M"],
 			ancientpower: ["8L18", "7L19", "6L19", "5L26", "4T", "4L25", "3L25"],
 			bulldoze: ["8M", "7M", "6M", "5M"],
@@ -36941,6 +37192,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	claydol: {
 		learnset: {
+            scorchingsands: ["8M"],
+            expandingforce: ["8M"],
 			allyswitch: ["8M", "7T", "5M"],
 			ancientpower: ["8L18", "7L19", "6L19", "5L26", "4T", "4L25", "3L25"],
 			bodypress: ["8M"],
@@ -37333,6 +37586,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	feebas: {
 		learnset: {
+            scaleshot: ["8M"],
 			attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
 			blizzard: ["8M", "7M", "6M", "5M", "4M", "3M"],
 			brine: ["8M", "7E", "6E", "5E"],
@@ -37390,6 +37644,10 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	milotic: {
 		learnset: {
+            tripleaxel: ["8M"],
+            skittersmack: ["8M"],
+            scaleshot: ["8M"],
+            flipturn: ["8M"],
 			aquaring: ["8L12", "7L17", "6L21", "5L49", "4L49"],
 			aquatail: ["8L32", "7T", "7L31", "6T", "6L29", "5T", "5L29", "4T", "4L29"],
 			attract: ["8M", "8L16", "7M", "7L34", "6M", "6L37", "5M", "5L41", "4M", "4L41", "3M", "3L45"],
@@ -37839,6 +38097,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	duskull: {
 		learnset: {
+            skittersmack: ["8M"],
+            poltergeist: ["8M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8L1", "7L9", "6L9", "5L14", "4L14", "3L16", "3S1"],
 			attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
@@ -37924,6 +38184,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dusclops: {
 		learnset: {
+            skittersmack: ["8M"],
+            poltergeist: ["8M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8L1", "7L1", "6L1", "5L14", "4L14", "3L16"],
 			attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
@@ -38027,6 +38289,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dusknoir: {
 		learnset: {
+            skittersmack: ["8M"],
+            poltergeist: ["8M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8L1", "7L1", "6L1", "5L14", "4L14"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
@@ -38563,6 +38827,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	glalie: {
 		learnset: {
+            steelroller: ["8M"],
 			astonish: ["8L1"],
 			attract: ["8M", "7M", "6M", "5M", "4M", "3M"],
 			avalanche: ["8M", "4M"],
@@ -38636,6 +38901,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	froslass: {
 		learnset: {
+            tripleaxel: ["8M"],
+            poltergeist: ["8M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8L1", "7L19", "6L1", "5L1", "4L1"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
@@ -40477,6 +40744,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	jirachi: {
 		learnset: {
+            meteorbeam: ["8M"],
+            expandingforce: ["8M"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			allyswitch: ["8M"],
 			amnesia: ["8M"],
@@ -41915,6 +42184,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	shinx: {
 		learnset: {
+            risingvoltage: ["8M"],
 			attract: ["7M", "6M", "5M", "4M"],
 			babydolleyes: ["7L11", "6L11"],
 			bite: ["7L17", "6L17", "5L17", "4L13"],
@@ -41979,6 +42249,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	luxio: {
 		learnset: {
+            risingvoltage: ["8M"],
 			attract: ["7M", "6M", "5M", "4M"],
 			bite: ["7L18", "6L18", "5L18", "4L13"],
 			captivate: ["4M"],
@@ -42033,6 +42304,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	luxray: {
 		learnset: {
+            risingvoltage: ["8M"],
 			attract: ["7M", "6M", "5M", "4M"],
 			bite: ["7L18", "6L18", "5L18", "4L13"],
 			captivate: ["4M"],
@@ -42683,6 +42955,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	combee: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			aircutter: ["5D", "4T"],
 			bugbite: ["8L1", "7T", "7L13", "6T", "6L13", "5T", "5L13", "4T", "4L13"],
 			bugbuzz: ["8M", "7L29", "6L29", "5L29"],
@@ -42700,6 +42973,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	vespiquen: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			acrobatics: ["8M", "7M", "6M", "5M"],
 			aerialace: ["7M", "6M", "5M", "4M"],
 			aircutter: ["4T"],
@@ -43010,6 +43284,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	cherubi: {
 		learnset: {
+            grassyglide: ["8M"],
 			aromatherapy: ["8E", "7E", "6E", "5E", "4E"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
 			bulletseed: ["8M", "5D", "4M"],
@@ -43071,6 +43346,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	cherrim: {
 		learnset: {
+            grassyglide: ["8M"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
 			bulletseed: ["8M", "4M"],
 			captivate: ["4M"],
@@ -43130,6 +43406,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	shellos: {
 		learnset: {
+            skittersmack: ["8M"],
 			acidarmor: ["8E", "7E", "6E"],
 			amnesia: ["8M", "7E", "6E", "5E", "4E"],
 			ancientpower: ["8L20", "4T"],
@@ -43195,6 +43472,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gastrodon: {
 		learnset: {
+            skittersmack: ["8M"],
 			amnesia: ["8M"],
 			ancientpower: ["8L20", "4T"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
@@ -43443,6 +43721,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	buneary: {
 		learnset: {
+            tripleaxel: ["8M"],
 			afteryou: ["7T", "7L43", "6T", "6L43", "5T", "5L43"],
 			agility: ["7L33", "6L33", "5L33", "4L33"],
 			attract: ["7M", "6M", "5M", "4M", "4E"],
@@ -43530,6 +43809,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	lopunny: {
 		learnset: {
+            tripleaxel: ["8M"],
 			afteryou: ["7T", "7L43", "6T", "6L43", "5T", "5L43"],
 			agility: ["7L33", "6L33", "5L33", "4L33"],
 			attract: ["7M", "6M", "5M", "4M"],
@@ -43773,6 +44053,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	stunky: {
 		learnset: {
+            lashout: ["8M"],
+            corrosivegas: ["8M"],
 			acidspray: ["8L9", "7L19", "6L32", "5L32"],
 			assurance: ["8M"],
 			astonish: ["8E", "7E", "6E", "5E", "4E"],
@@ -43856,6 +44138,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	skuntank: {
 		learnset: {
+            lashout: ["8M"],
+            corrosivegas: ["8M"],
+            burningjealousy: ["8M"],
 			acidspray: ["8L9", "7L19", "6L32", "5L32"],
 			assurance: ["8M"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
@@ -43939,6 +44224,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	bronzor: {
 		learnset: {
+            steelroller: ["8M"],
+            expandingforce: ["8M"],
 			allyswitch: ["8M", "7T"],
 			ancientpower: ["4T"],
 			bulldoze: ["8M", "7M", "6M", "5M"],
@@ -44014,6 +44301,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	bronzong: {
 		learnset: {
+            steelroller: ["8M"],
+            meteorbeam: ["8M"],
+            expandingforce: ["8M"],
 			allyswitch: ["8M", "7T"],
 			ancientpower: ["4T"],
 			block: ["8L0", "7T", "7L1", "6T", "6L33", "5T", "5L33", "4T", "4L33"],
@@ -44467,6 +44757,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	riolu: {
 		learnset: {
+            coaching: ["8M"],
 			agility: ["8M", "7E", "6E", "5E", "4E"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
 			aurasphere: ["4S0"],
@@ -44563,6 +44854,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	lucario: {
 		learnset: {
+            terrainpulse: ["8M"],
+            coaching: ["8M"],
 			agility: ["8M"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
 			aurasphere: ["8M", "8L0", "7L1", "7S5", "6L1", "6S4", "5L51", "4L37", "4S0"],
@@ -44679,6 +44972,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	hippopotas: {
 		learnset: {
+            scorchingsands: ["8M"],
 			amnesia: ["8M"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
 			bite: ["8L4", "7L7", "6L7", "5L7", "5D", "4L7"],
@@ -44742,6 +45036,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	hippowdon: {
 		learnset: {
+            scorchingsands: ["8M"],
 			amnesia: ["8M"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
 			bite: ["8L1", "7L1", "6L1", "5L1", "4L1"],
@@ -44809,6 +45104,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	skorupi: {
 		learnset: {
+            skittersmack: ["8M"],
 			acupressure: ["8L45", "7L13", "6L13", "5L17", "4L17"],
 			aerialace: ["7M", "6M", "5M", "4M"],
 			agility: ["8M", "7E", "6E", "5E", "5D", "4E"],
@@ -44889,6 +45185,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	drapion: {
 		learnset: {
+            skittersmack: ["8M"],
+            lashout: ["8M"],
 			acupressure: ["8L49", "7L13", "6L13", "5L17", "4L17"],
 			aerialace: ["7M", "6M", "5M", "4M"],
 			agility: ["8M"],
@@ -44985,6 +45283,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	croagunk: {
 		learnset: {
+            lashout: ["8M"],
+            coaching: ["8M"],
 			acupressure: ["7E", "6E", "5E"],
 			assurance: ["8M"],
 			astonish: ["8L4", "7L1", "6L1", "5L1", "5S0", "4L1"],
@@ -45091,6 +45391,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	toxicroak: {
 		learnset: {
+            lashout: ["8M"],
+            corrosivegas: ["8M"],
+            coaching: ["8M"],
 			assurance: ["8M"],
 			astonish: ["8L1", "7L1", "6L1", "5L1", "4L1"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
@@ -45390,6 +45693,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	snover: {
 		learnset: {
+            grassyglide: ["8M"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
 			avalanche: ["8M", "7E", "6E", "5E", "5D", "4M"],
 			blizzard: ["8M", "8L45", "7M", "7L41", "6M", "6L41", "5M", "5L41", "4M", "4L41"],
@@ -45457,6 +45761,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	abomasnow: {
 		learnset: {
+            grassyglide: ["8M"],
 			attract: ["8M", "7M", "6M", "5M", "4M"],
 			auroraveil: ["8L1"],
 			avalanche: ["8M", "4M"],
@@ -45543,6 +45848,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rotom: {
 		learnset: {
+            poltergeist: ["8M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8L1", "7L1", "6L1", "6S1", "5L1", "5S0", "4L1"],
 			charge: ["8L15", "7L1", "6L1", "5L57", "4L43"],
@@ -45615,6 +45921,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rotomheat: {
 		learnset: {
+            risingvoltage: ["8M"],
 			overheat: ["8L1", "7R", "6R", "5R", "4R"],
 		},
 	},
@@ -48057,6 +48364,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	purrloin: {
 		learnset: {
+            lashout: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			assist: ["7L6", "6L6", "5L6"],
 			assurance: ["8M", "8L21", "7L28", "6L28", "5L28"],
@@ -48134,6 +48442,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	liepard: {
 		learnset: {
+            skittersmack: ["8M"],
+            lashout: ["8M"],
+            burningjealousy: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			assist: ["7L1", "6L1", "5L1"],
 			assurance: ["8M", "8L23", "7L31", "6L31", "5L31"],
@@ -48668,6 +48979,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	munna: {
 		learnset: {
+            expandingforce: ["8M"],
 			afteryou: ["7T", "6T", "5T"],
 			allyswitch: ["8M", "7T"],
 			amnesia: ["8M"],
@@ -48746,6 +49058,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	musharna: {
 		learnset: {
+            mistyexplosion: ["8M"],
+            expandingforce: ["8M"],
 			afteryou: ["7T", "6T", "5T"],
 			allyswitch: ["8M", "7T"],
 			amnesia: ["8M"],
@@ -48822,6 +49136,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	pidove: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			agility: ["8M"],
 			aircutter: ["8L16", "7L15", "6L15", "5L15", "5S0"],
@@ -48880,6 +49195,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	tranquill: {
 		learnset: {
+            dualwingbeat: ["8M"],
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			agility: ["8M"],
 			aircutter: ["8L16", "7L15", "6L15", "5L15"],
@@ -48929,6 +49246,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	unfezant: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			agility: ["8M"],
 			aircutter: ["8L16", "7L15", "6L15", "5L15"],
@@ -49092,6 +49410,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	roggenrola: {
 		learnset: {
+            meteorbeam: ["8M"],
 			attract: ["8M", "7M", "6M", "5M"],
 			autotomize: ["8E", "7E", "6E", "5E"],
 			block: ["7T", "6T", "5T"],
@@ -49146,6 +49465,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	boldore: {
 		learnset: {
+            expandingforce: ["8M"],
+            meteorbeam: ["8M"],
 			attract: ["8M", "7M", "6M", "5M"],
 			block: ["7T", "6T", "5T"],
 			bodypress: ["8M"],
@@ -49200,6 +49521,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gigalith: {
 		learnset: {
+            meteorbeam: ["8M"],
 			attract: ["8M", "7M", "6M", "5M"],
 			block: ["7T", "6T", "5T"],
 			bodypress: ["8M"],
@@ -49259,6 +49581,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	woobat: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			acrobatics: ["8M", "7M", "6M", "5M"],
 			aerialace: ["7M", "6M", "5M"],
 			afteryou: ["7T", "6T", "5T"],
@@ -49350,6 +49673,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	swoobat: {
 		learnset: {
+            expandingforce: ["8M"],
+            expandingforce: ["8M"],
+            dualwingbeat: ["8M"],
 			acrobatics: ["8M", "7M", "6M", "5M"],
 			aerialace: ["7M", "6M", "5M"],
 			afteryou: ["7T", "6T", "5T"],
@@ -49441,6 +49767,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	drilbur: {
 		learnset: {
+            scorchingsands: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			attract: ["8M", "7M", "6M", "5M"],
 			brickbreak: ["8M", "7M", "6M", "5M"],
@@ -49500,6 +49827,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	excadrill: {
 		learnset: {
+            scorchingsands: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			attract: ["8M", "7M", "6M", "5M"],
 			brickbreak: ["8M", "7M", "6M", "5M"],
@@ -49682,6 +50010,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	timburr: {
 		learnset: {
+            coaching: ["8M"],
 			attract: ["8M", "7M", "6M", "5M"],
 			bide: ["7L8", "6L8", "5L8"],
 			block: ["7T", "6T", "5T"],
@@ -49759,6 +50088,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gurdurr: {
 		learnset: {
+            coaching: ["8M"],
 			attract: ["8M", "7M", "6M", "5M"],
 			bide: ["7L1", "6L1", "5L1"],
 			block: ["7T", "6T", "5T"],
@@ -49830,6 +50160,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	conkeldurr: {
 		learnset: {
+            coaching: ["8M"],
 			attract: ["8M", "7M", "6M", "5M"],
 			bide: ["7L1", "6L1", "5L1"],
 			block: ["7T", "6T", "5T"],
@@ -50100,6 +50431,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	throh: {
 		learnset: {
+            coaching: ["8M"],
 			attract: ["8M", "7M", "6M", "5M"],
 			bide: ["7L1", "6L5", "5L5"],
 			bind: ["8L1", "7T", "7L1", "6T", "6L1", "5T", "5L1", "5D"],
@@ -50173,6 +50505,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sawk: {
 		learnset: {
+            coaching: ["8M"],
 			attract: ["8M", "7M", "6M", "5M"],
 			bide: ["7L1", "6L5", "5L5"],
 			block: ["7T", "6T", "5T"],
@@ -50422,6 +50755,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	venipede: {
 		learnset: {
+            steelroller: ["8M"],
+            skittersmack: ["8M"],
 			agility: ["7L29", "6L29", "5L29"],
 			attract: ["7M", "6M", "5M"],
 			bugbite: ["7T", "7L22", "6T", "6L22", "5T", "5L22"],
@@ -50472,6 +50807,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	whirlipede: {
 		learnset: {
+            steelroller: ["8M"],
+            skittersmack: ["8M"],
 			agility: ["7L32", "6L32", "5L32"],
 			attract: ["7M", "6M", "5M"],
 			bugbite: ["7T", "7L23", "6T", "6L23", "5T", "5L23"],
@@ -50517,6 +50854,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	scolipede: {
 		learnset: {
+            steelroller: ["8M"],
+            skittersmack: ["8M"],
 			agility: ["7L33", "6L33", "5L33"],
 			aquatail: ["7T", "6T", "5T"],
 			attract: ["7M", "6M", "5M"],
@@ -50583,6 +50922,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	cottonee: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["8L1", "7L1", "6L1", "5L1"],
 			attract: ["8M", "7M", "6M", "5M"],
 			beatup: ["8M", "7E", "6E", "5E"],
@@ -50646,6 +50986,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	whimsicott: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["8L1"],
 			attract: ["8M", "7M", "6M", "5M"],
 			beatup: ["8M", "5S0"],
@@ -50720,6 +51061,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	petilil: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["7L1", "6L1", "5L1"],
 			afteryou: ["7T", "7L44", "6T", "6L44", "5T", "5L44"],
 			aromatherapy: ["7L28", "6L28", "5L28"],
@@ -50777,6 +51119,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	lilligant: {
 		learnset: {
+            grassyglide: ["8M"],
 			afteryou: ["7T", "6T", "5T"],
 			attract: ["7M", "6M", "5M"],
 			confide: ["7M", "6M"],
@@ -50827,6 +51170,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	basculin: {
 		learnset: {
+            scaleshot: ["8M"],
+            flipturn: ["8M"],
 			agility: ["8M", "7E", "6E", "5E", "5D"],
 			aquajet: ["8L12", "7L9", "6L13", "5L13"],
 			aquatail: ["8L44", "7T", "7L20", "6T", "6L28", "5T", "5L28"],
@@ -50895,6 +51240,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sandile: {
 		learnset: {
+            skittersmack: ["8M"],
+            scorchingsands: ["8M"],
+            lashout: ["8M"],
 			aquatail: ["7T", "6T", "5T"],
 			assurance: ["7L16", "6L16", "5L16"],
 			attract: ["7M", "6M", "5M"],
@@ -50964,6 +51312,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	krokorok: {
 		learnset: {
+            skittersmack: ["8M"],
+            scorchingsands: ["8M"],
+            lashout: ["8M"],
 			aquatail: ["7T", "6T", "5T"],
 			assurance: ["7L16", "6L16", "5L16"],
 			attract: ["7M", "6M", "5M"],
@@ -51034,6 +51385,10 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	krookodile: {
 		learnset: {
+            skittersmack: ["8M"],
+            scorchingsands: ["8M"],
+            scaleshot: ["8M"],
+            lashout: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			aquatail: ["7T", "6T", "5T"],
 			assurance: ["7L16", "6L16", "5L16"],
@@ -51253,6 +51608,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	darmanitan: {
 		learnset: {
+            lashout: ["8M"],
+            burningjealousy: ["8M"],
 			attract: ["8M", "7M", "6M", "5M"],
 			bellydrum: ["8L38", "7L30", "6L30", "6S1", "5L30", "5S0"],
 			bite: ["8L1"],
@@ -51350,6 +51707,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	darmanitangalar: {
 		learnset: {
+            expandingforce: ["8M"],
 			attract: ["8M"],
 			avalanche: ["8M", "8L12"],
 			bellydrum: ["8L38"],
@@ -51418,6 +51776,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	maractus: {
 		learnset: {
+            grassyglide: ["8M"],
 			absorb: ["8L1", "7L1", "6L1", "5L1"],
 			acupressure: ["8L52", "7L29", "6L29", "5L29"],
 			aerialace: ["7M", "6M", "5M"],
@@ -51486,6 +51845,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dwebble: {
 		learnset: {
+            skittersmack: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			attract: ["8M", "7M", "6M", "5M"],
 			block: ["8E", "7T", "7E", "6T", "6E", "5T", "5E"],
@@ -51549,6 +51909,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	crustle: {
 		learnset: {
+            skittersmack: ["8M"],
+            meteorbeam: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			attract: ["8M", "7M", "6M", "5M"],
 			block: ["7T", "6T", "5T"],
@@ -51618,6 +51980,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	scraggy: {
 		learnset: {
+            lashout: ["8M"],
+            coaching: ["8M"],
 			acidspray: ["8E", "7E"],
 			amnesia: ["8M", "7E", "6E", "5E"],
 			assurance: ["8M"],
@@ -51712,6 +52076,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	scrafty: {
 		learnset: {
+            lashout: ["8M"],
+            coaching: ["8M"],
 			amnesia: ["8M"],
 			assurance: ["8M"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -51806,6 +52172,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sigilyph: {
 		learnset: {
+            expandingforce: ["8M"],
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			aircutter: ["8L15", "7L21", "6L21", "5L21"],
 			airslash: ["8M", "8L35", "7L41", "6L41", "5L41"],
@@ -52017,6 +52385,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	cofagrigus: {
 		learnset: {
+            poltergeist: ["8M"],
 			afteryou: ["7T", "6T", "5T"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8L1", "7L1", "6L1", "5L1"],
@@ -52103,6 +52472,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	runerigus: {
 		learnset: {
+            poltergeist: ["8M"],
 			allyswitch: ["8M"],
 			amnesia: ["8M"],
 			astonish: ["8L1"],
@@ -52463,6 +52833,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	trubbish: {
 		learnset: {
+            corrosivegas: ["8M"],
 			acidspray: ["8L6", "7L12", "6L12", "5L12"],
 			amnesia: ["8M", "8L9", "7L40", "6L40", "5L40"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -52523,6 +52894,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	garbodor: {
 		learnset: {
+            corrosivegas: ["8M"],
 			acidspray: ["8L1", "7L12", "6L12", "5L12"],
 			amnesia: ["8M", "8L9", "7L46", "6L46", "5L46"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -52597,6 +52969,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	zorua: {
 		learnset: {
+            skittersmack: ["8M"],
+            lashout: ["8M"],
+            burningjealousy: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			agility: ["7L37", "6L37", "5L37"],
 			attract: ["7M", "6M", "5M"],
@@ -52668,6 +53043,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	zoroark: {
 		learnset: {
+            skittersmack: ["8M"],
+            lashout: ["8M"],
+            burningjealousy: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			agility: ["7L39", "6L39", "5L39", "5S0"],
 			attract: ["7M", "6M", "5M"],
@@ -52752,6 +53130,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	minccino: {
 		learnset: {
+            tripleaxel: ["8M"],
 			afteryou: ["8L28", "7T", "7L49", "6T", "6L49", "5T", "5L49"],
 			aquatail: ["8E", "7T", "7E", "6T", "6E", "5T", "5E"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -52818,6 +53197,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	cinccino: {
 		learnset: {
+            tripleaxel: ["8M"],
 			afteryou: ["8L1", "7T", "6T", "5T"],
 			aquatail: ["7T", "6T", "5T"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -52885,6 +53265,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gothita: {
 		learnset: {
+            expandingforce: ["8M"],
 			allyswitch: ["8M", "7T"],
 			attract: ["8M", "7M", "6M", "5M"],
 			calmmind: ["8M", "7M", "6M", "5M"],
@@ -52972,6 +53353,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gothorita: {
 		learnset: {
+            expandingforce: ["8M"],
 			allyswitch: ["8M", "7T"],
 			attract: ["8M", "7M", "6M", "5M"],
 			calmmind: ["8M", "7M", "6M", "5M"],
@@ -53062,6 +53444,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gothitelle: {
 		learnset: {
+            expandingforce: ["8M"],
 			allyswitch: ["8M", "7T"],
 			attract: ["8M", "7M", "6M", "5M"],
 			brickbreak: ["8M", "7M", "6M", "5M"],
@@ -53154,6 +53537,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	solosis: {
 		learnset: {
+            steelroller: ["8M"],
+            expandingforce: ["8M"],
 			acidarmor: ["8E", "7E", "6E", "5E"],
 			afteryou: ["7T", "6T", "5T"],
 			allyswitch: ["8M", "8L28", "7T"],
@@ -53232,6 +53617,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	duosion: {
 		learnset: {
+            steelroller: ["8M"],
+            expandingforce: ["8M"],
 			afteryou: ["7T", "6T", "5T"],
 			allyswitch: ["8M", "8L28", "7T"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -53309,6 +53696,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	reuniclus: {
 		learnset: {
+            steelroller: ["8M"],
+            expandingforce: ["8M"],
 			afteryou: ["7T", "6T", "5T"],
 			allyswitch: ["8M", "8L28", "7T"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -53803,6 +54192,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	emolga: {
 		learnset: {
+            risingvoltage: ["8M"],
+            dualwingbeat: ["8M"],
 			acrobatics: ["7M", "7L30", "6M", "6L30", "5M", "5L30"],
 			aerialace: ["7M", "6M", "5M"],
 			agility: ["7L46", "6L46", "5L46"],
@@ -54108,6 +54499,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	frillish: {
 		learnset: {
+            poltergeist: ["8M"],
 			absorb: ["8L1", "7L5", "6L5", "5L5"],
 			acidarmor: ["8E", "7E", "6E", "5E"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -54182,6 +54574,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	jellicent: {
 		learnset: {
+            poltergeist: ["8M"],
 			absorb: ["8L1", "7L1", "6L1", "5L1"],
 			acidarmor: ["8L1"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -54323,6 +54716,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	joltik: {
 		learnset: {
+            skittersmack: ["8M"],
+            risingvoltage: ["8M"],
 			absorb: ["8L1", "7L1"],
 			agility: ["8M", "8L24", "7L37", "6L37", "5L37"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -54390,6 +54785,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	galvantula: {
 		learnset: {
+            skittersmack: ["8M"],
+            risingvoltage: ["8M"],
 			absorb: ["8L1", "7L1"],
 			agility: ["8M", "8L24", "7L40", "6L40", "5L40"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -54460,6 +54857,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	ferroseed: {
 		learnset: {
+            steelroller: ["8M"],
 			acidspray: ["8E", "7E", "6E"],
 			assurance: ["8M"],
 			attract: ["8M"],
@@ -54523,6 +54921,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	ferrothorn: {
 		learnset: {
+            steelroller: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			assurance: ["8M"],
 			attract: ["8M"],
@@ -54600,6 +54999,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	klink: {
 		learnset: {
+            risingvoltage: ["8M"],
 			assurance: ["8M"],
 			autotomize: ["8L20", "7L31", "6L31", "5L31"],
 			bind: ["8L4", "7T", "7L21", "6T", "6L21", "5T", "5L21"],
@@ -54655,6 +55055,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	klang: {
 		learnset: {
+            risingvoltage: ["8M"],
 			allyswitch: ["8M", "7T"],
 			assurance: ["8M"],
 			autotomize: ["8L20", "7L31", "6L31", "5L31"],
@@ -54714,6 +55115,10 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	klinklang: {
 		learnset: {
+            steelroller: ["8M"],
+            risingvoltage: ["8M"],
+            steelroller: ["8M"],
+            steelroller: ["8M"],
 			allyswitch: ["8M", "7T"],
 			assurance: ["8M"],
 			autotomize: ["8L20", "7L31", "6L31", "5L31"],
@@ -54913,6 +55318,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	elgyem: {
 		learnset: {
+            meteorbeam: ["8M"],
+            expandingforce: ["8M"],
 			afteryou: ["7T", "6T", "5T"],
 			agility: ["8M"],
 			allyswitch: ["8M", "7T", "7E", "6E", "5M"],
@@ -54997,6 +55404,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	beheeyem: {
 		learnset: {
+            meteorbeam: ["8M"],
+            expandingforce: ["8M"],
 			afteryou: ["7T", "6T", "5T"],
 			agility: ["8M"],
 			allyswitch: ["8M", "7T", "5M"],
@@ -55083,6 +55492,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	litwick: {
 		learnset: {
+            skittersmack: ["8M"],
+            poltergeist: ["8M"],
+            burningjealousy: ["8M"],
 			acid: ["7E", "6E", "5E"],
 			acidarmor: ["8E", "7E", "6E", "5E"],
 			allyswitch: ["8M", "7T"],
@@ -55153,6 +55565,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	lampent: {
 		learnset: {
+            skittersmack: ["8M"],
+            poltergeist: ["8M"],
+            burningjealousy: ["8M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8L1", "7L1", "6L1", "5L1"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -55220,6 +55635,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	chandelure: {
 		learnset: {
+            skittersmack: ["8M"],
+            poltergeist: ["8M"],
+            burningjealousy: ["8M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8L1"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -55290,6 +55708,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	axew: {
 		learnset: {
+            scaleshot: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			aquatail: ["7T", "6T", "5T"],
 			assurance: ["8M", "8L9", "7L7", "6L7", "5L7"],
@@ -55365,6 +55784,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	fraxure: {
 		learnset: {
+            scaleshot: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			aquatail: ["7T", "6T", "5T"],
 			assurance: ["8M", "8L9", "7L1", "6L1", "5L1"],
@@ -55437,6 +55857,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	haxorus: {
 		learnset: {
+            scaleshot: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			aquatail: ["7T", "6T", "5T"],
 			assurance: ["8M", "8L9", "7L1", "6L1", "5L1"],
@@ -55734,6 +56155,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	shelmet: {
 		learnset: {
+            skittersmack: ["8M"],
 			absorb: ["8L1", "7L1"],
 			acid: ["8L4", "7L4", "6L4", "5L4", "5D"],
 			acidarmor: ["8L24", "7L32", "6L32", "5L32"],
@@ -55793,6 +56215,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	accelgor: {
 		learnset: {
+            skittersmack: ["8M"],
 			absorb: ["8L1", "7L1"],
 			acid: ["8L1"],
 			acidarmor: ["8L1"],
@@ -55858,6 +56281,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	stunfisk: {
 		learnset: {
+            lashout: ["8M"],
 			aquatail: ["7T", "6T", "5T"],
 			astonish: ["8E", "7E", "6E", "5E"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -55935,6 +56359,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	stunfiskgalar: {
 		learnset: {
+            terrainpulse: ["8M"],
+            lashout: ["8M"],
 			astonish: ["8E"],
 			attract: ["8M"],
 			bind: ["8E"],
@@ -55994,6 +56420,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	mienfoo: {
 		learnset: {
+            coaching: ["8M"],
 			acrobatics: ["7M", "6M", "5M"],
 			aerialace: ["7M", "6M", "5M"],
 			allyswitch: ["7T", "7E", "6E"],
@@ -56068,6 +56495,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	mienshao: {
 		learnset: {
+            coaching: ["8M"],
 			acrobatics: ["7M", "6M", "5M"],
 			aerialace: ["7M", "6M", "5M"],
 			allyswitch: ["7T"],
@@ -56142,6 +56570,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	druddigon: {
 		learnset: {
+            scaleshot: ["8M"],
+            lashout: ["8M"],
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			aquatail: ["7T", "6T", "5T"],
 			attract: ["7M", "6M", "5M"],
@@ -56234,6 +56665,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	golett: {
 		learnset: {
+            scorchingsands: ["8M"],
+            poltergeist: ["8M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8L1", "7L1", "6L1", "5L1"],
 			block: ["7T", "6T", "5T"],
@@ -56313,6 +56746,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	golurk: {
 		learnset: {
+            scorchingsands: ["8M"],
+            poltergeist: ["8M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8L1", "7L1", "6L1", "5L1"],
 			block: ["7T", "6T", "5T"],
@@ -56414,6 +56849,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	pawniard: {
 		learnset: {
+            lashout: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			assurance: ["8M", "8L25", "7L33", "6L33", "5L33"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -56496,6 +56932,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	bisharp: {
 		learnset: {
+            lashout: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			airslash: ["8M"],
 			assurance: ["8M", "8L25", "7L33", "6L33", "5L33"],
@@ -56583,6 +57020,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	bouffalant: {
 		learnset: {
+            lashout: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			amnesia: ["7E", "6E", "5E"],
 			attract: ["7M", "6M", "5M"],
@@ -56655,6 +57093,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rufflet: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			aerialace: ["8L30", "7M", "7L23", "6M", "6L23", "5M", "5L23"],
 			agility: ["8M"],
 			airslash: ["8M", "8L55", "7L41", "6L41", "5L41"],
@@ -56716,6 +57155,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	braviary: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			aerialace: ["8L30", "7M", "7L23", "6M", "6L23", "5M", "5L23", "5S0"],
 			agility: ["8M"],
 			airslash: ["8M", "8L57", "7L41", "6L41", "5L41"],
@@ -56788,6 +57228,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	vullaby: {
 		learnset: {
+            lashout: ["8M"],
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			airslash: ["8M", "8L42", "7L41", "6L41", "5L41"],
 			assurance: ["8M"],
@@ -56855,6 +57297,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	mandibuzz: {
 		learnset: {
+            lashout: ["8M"],
+            dualwingbeat: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			airslash: ["8M", "8L42", "7L41", "6L41", "5L41"],
 			assurance: ["8M"],
@@ -56928,6 +57372,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	heatmor: {
 		learnset: {
+            scorchingsands: ["8M"],
+            burningjealousy: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			amnesia: ["8M", "8L45", "7L47", "6L44", "5L46"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -57010,6 +57456,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	durant: {
 		learnset: {
+            skittersmack: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			agility: ["8M", "8L24", "7L6", "6L16", "5L16"],
 			attract: ["8M", "7M", "6M", "5M"],
@@ -57217,6 +57664,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	hydreigon: {
 		learnset: {
+            scaleshot: ["8M"],
+            dualwingbeat: ["8M"],
 			acrobatics: ["8M", "7M", "6M", "5M"],
 			aquatail: ["7T", "6T", "5T"],
 			assurance: ["8M", "8L16"],
@@ -57324,6 +57773,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	larvesta: {
 		learnset: {
+            skittersmack: ["8M"],
 			absorb: ["7L10"],
 			acrobatics: ["7M", "6M", "5M"],
 			amnesia: ["7L80", "6L80", "5L80"],
@@ -57380,6 +57830,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	volcarona: {
 		learnset: {
+            skittersmack: ["8M"],
+            dualwingbeat: ["8M"],
 			absorb: ["7L1"],
 			acrobatics: ["7M", "6M", "5M"],
 			aerialace: ["7M", "6M", "5M"],
@@ -57453,6 +57905,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	cobalion: {
 		learnset: {
+            coaching: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			airslash: ["8M"],
 			block: ["7T", "6T", "5T"],
@@ -57535,6 +57988,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	terrakion: {
 		learnset: {
+            coaching: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			airslash: ["8M"],
 			block: ["7T", "6T", "5T"],
@@ -57615,6 +58069,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	virizion: {
 		learnset: {
+            grassyglide: ["8M"],
+            coaching: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			airslash: ["8M"],
 			block: ["7T", "6T", "5T"],
@@ -57867,6 +58323,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	reshiram: {
 		learnset: {
+            scorchingsands: ["8M"],
+            scaleshot: ["8M"],
+            dualwingbeat: ["8M"],
 			ancientpower: ["8L1", "7L15", "6L15", "5L15"],
 			blueflare: ["8L88", "7L100", "7S6", "6L100", "5L100", "5S2"],
 			bodypress: ["8M"],
@@ -57962,6 +58421,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	zekrom: {
 		learnset: {
+            scaleshot: ["8M"],
+            risingvoltage: ["8M"],
+            dualwingbeat: ["8M"],
 			ancientpower: ["8L1", "7L15", "6L15", "5L15"],
 			bodypress: ["8M"],
 			boltstrike: ["8L88", "7L100", "7S6", "6L100", "5L100", "5S2"],
@@ -58133,6 +58595,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	kyurem: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			ancientpower: ["8L1", "7L15", "6L15", "5L15"],
 			blizzard: ["8M", "8L56", "7M", "7L78", "6M", "6L78", "5M", "5L78"],
 			bodypress: ["8M"],
@@ -58220,6 +58683,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	kyuremblack: {
 		learnset: {
+            scaleshot: ["8M"],
 			ancientpower: ["8L1", "7L15", "6L15", "5L15"],
 			blizzard: ["8M", "8L56", "7M", "7L78", "6M", "6L78", "5M", "5L78"],
 			bodypress: ["8M"],
@@ -58396,6 +58860,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	keldeo: {
 		learnset: {
+            coaching: ["8M"],
 			aerialace: ["7M", "6M", "5M"],
 			airslash: ["8M"],
 			aquajet: ["8L1", "7L1", "6L1", "6S3", "6S2", "5L1", "5S1", "5S0"],
@@ -58481,6 +58946,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	meloetta: {
 		learnset: {
+            flipturn: ["8M"],
 			acrobatics: ["7M", "7L26", "6M", "6L26", "5M", "5L26"],
 			allyswitch: ["7T"],
 			brickbreak: ["7M", "6M", "5M"],
@@ -59513,6 +59979,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	diggersby: {
 		learnset: {
+            scorchingsands: ["8M"],
 			agility: ["8M", "7L1", "6L1"],
 			attract: ["8M", "7M", "6M"],
 			bodyslam: ["8M"],
@@ -59604,6 +60071,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	fletchling: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			acrobatics: ["7M", "7L39", "6M", "6L39"],
 			aerialace: ["7M", "6M"],
 			agility: ["7L13", "6L13"],
@@ -59651,6 +60119,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	fletchinder: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			acrobatics: ["7M", "7L42", "6M", "6L42"],
 			aerialace: ["7M", "6M"],
 			agility: ["7L13", "6L13"],
@@ -59705,6 +60174,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	talonflame: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			acrobatics: ["7M", "7L44", "6M", "6L44"],
 			aerialace: ["7M", "6M"],
 			agility: ["7L13", "6L13"],
@@ -60454,6 +60924,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	pancham: {
 		learnset: {
+            lashout: ["8M"],
+            coaching: ["8M"],
 			aerialace: ["7M", "6M"],
 			armthrust: ["8L4", "7L7", "6L7", "6S0"],
 			attract: ["8M", "7M", "6M"],
@@ -60550,6 +61022,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	pangoro: {
 		learnset: {
+            lashout: ["8M"],
+            coaching: ["8M"],
 			aerialace: ["7M", "6M"],
 			armthrust: ["8L1", "7L1", "6L7"],
 			attract: ["8M", "7M", "6M"],
@@ -60728,6 +61202,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	espurr: {
 		learnset: {
+            expandingforce: ["8M"],
 			allyswitch: ["8M", "7T"],
 			assist: ["7E", "6E"],
 			attract: ["8M", "7M", "6M"],
@@ -60804,6 +61279,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	meowstic: {
 		learnset: {
+            expandingforce: ["8M"],
 			allyswitch: ["8M", "7T"],
 			attract: ["8M", "7M", "6M"],
 			calmmind: ["8M", "7M", "6M"],
@@ -61165,6 +61641,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	spritzee: {
 		learnset: {
+            mistyexplosion: ["8M"],
 			afteryou: ["8E", "7T", "6T"],
 			allyswitch: ["8M", "7T"],
 			aromatherapy: ["8L12", "7L25", "6L25"],
@@ -61231,6 +61708,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	aromatisse: {
 		learnset: {
+            mistyexplosion: ["8M"],
 			afteryou: ["7T", "6T"],
 			allyswitch: ["8M", "7T"],
 			aromatherapy: ["8L12", "7L25", "6L25"],
@@ -61305,6 +61783,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	swirlix: {
 		learnset: {
+            mistyexplosion: ["8M"],
 			afteryou: ["8E", "7T", "7E", "6T", "6E"],
 			amnesia: ["8M"],
 			aromatherapy: ["8L9", "7L26", "6L26"],
@@ -61366,6 +61845,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	slurpuff: {
 		learnset: {
+            mistyexplosion: ["8M"],
 			afteryou: ["7T", "6T"],
 			amnesia: ["8M"],
 			aromatherapy: ["8L9", "7L26", "6L26"],
@@ -61429,6 +61909,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	inkay: {
 		learnset: {
+            lashout: ["8M"],
+            expandingforce: ["8M"],
 			acupressure: ["8E"],
 			aerialace: ["7M", "6M"],
 			allyswitch: ["8M", "7T"],
@@ -61512,6 +61994,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	malamar: {
 		learnset: {
+            lashout: ["8M"],
+            expandingforce: ["8M"],
 			aerialace: ["7M", "6M"],
 			allyswitch: ["8M", "7T"],
 			attract: ["8M", "7M", "6M"],
@@ -61686,6 +62170,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	barbaracle: {
 		learnset: {
+            meteorbeam: ["8M"],
 			aerialace: ["7M", "6M"],
 			ancientpower: ["8L20", "7L28", "6L28"],
 			assurance: ["8M"],
@@ -61790,6 +62275,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	skrelp: {
 		learnset: {
+            scaleshot: ["8M"],
+            flipturn: ["8M"],
 			acid: ["7L15", "6L15"],
 			acidarmor: ["7E", "6E"],
 			aquatail: ["7T", "7L35", "6T", "6L35"],
@@ -61845,6 +62332,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dragalge: {
 		learnset: {
+            scaleshot: ["8M"],
+            flipturn: ["8M"],
 			acid: ["7L15", "6L15"],
 			aquatail: ["7T", "7L35", "6T", "6L35"],
 			attract: ["7M", "6M"],
@@ -61905,6 +62394,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	clauncher: {
 		learnset: {
+            terrainpulse: ["8M"],
+            flipturn: ["8M"],
 			aquajet: ["7L43", "7E", "6L43", "6E"],
 			aquatail: ["7T", "6T"],
 			attract: ["7M", "6M"],
@@ -61959,6 +62450,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	clawitzer: {
 		learnset: {
+            terrainpulse: ["8M"],
+            flipturn: ["8M"],
 			aquajet: ["7L49", "6L47"],
 			aquatail: ["7T", "6T"],
 			attract: ["7M", "6M"],
@@ -62023,6 +62516,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	helioptile: {
 		learnset: {
+            scaleshot: ["8M"],
+            risingvoltage: ["8M"],
 			agility: ["8M", "7E", "6E"],
 			allyswitch: ["8M", "7T"],
 			attract: ["8M", "7M", "6M"],
@@ -62088,6 +62583,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	heliolisk: {
 		learnset: {
+            scaleshot: ["8M"],
+            risingvoltage: ["8M"],
 			agility: ["8M"],
 			allyswitch: ["8M", "7T"],
 			attract: ["8M", "7M", "6M"],
@@ -62454,6 +62951,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sylveon: {
 		learnset: {
+            mistyexplosion: ["8M"],
 			attract: ["8M", "7M", "6M"],
 			babydolleyes: ["8L15", "7L9", "6S1"],
 			batonpass: ["8M", "8L1"],
@@ -62536,6 +63034,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	hawlucha: {
 		learnset: {
+            dualwingbeat: ["8M"],
+            coaching: ["8M"],
 			acrobatics: ["8M", "7M", "6M"],
 			aerialace: ["8L12", "7M", "7L16", "6M", "6L16"],
 			agility: ["8M", "7E", "6E"],
@@ -62637,6 +63137,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dedenne: {
 		learnset: {
+            risingvoltage: ["8M"],
 			aerialace: ["7M", "6M"],
 			allyswitch: ["7T"],
 			attract: ["7M", "6M"],
@@ -62761,6 +63262,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	goomy: {
 		learnset: {
+            skittersmack: ["8M"],
 			absorb: ["8L1", "7L5", "6L5"],
 			acidarmor: ["7E", "6E"],
 			attract: ["8M", "7M", "6M"],
@@ -62813,6 +63315,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sliggoo: {
 		learnset: {
+            skittersmack: ["8M"],
 			absorb: ["8L1", "7L1", "6L5"],
 			acidspray: ["8L0"],
 			attract: ["8M", "7M", "6M"],
@@ -62864,6 +63367,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	goodra: {
 		learnset: {
+            skittersmack: ["8M"],
 			absorb: ["8L1", "7L1", "6L5"],
 			acidspray: ["8L1"],
 			aquatail: ["8L0", "7T", "7L1", "6T", "6L50"],
@@ -63005,6 +63509,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	phantump: {
 		learnset: {
+            skittersmack: ["8M"],
+            poltergeist: ["8M"],
+            grassyglide: ["8M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8L1", "7L5", "6L5"],
 			attract: ["8M", "7M", "6M"],
@@ -63083,6 +63590,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	trevenant: {
 		learnset: {
+            skittersmack: ["8M"],
+            poltergeist: ["8M"],
+            grassyglide: ["8M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8L1", "7L1", "6L5"],
 			attract: ["8M", "7M", "6M"],
@@ -63168,6 +63678,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	pumpkaboo: {
 		learnset: {
+            skittersmack: ["8M"],
+            grassyglide: ["8M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8L1", "7L1", "6L1"],
 			attract: ["8M", "7M", "6M"],
@@ -63242,6 +63754,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	pumpkaboosuper: {
 		learnset: {
+            poltergeist: ["8M"],
 			astonish: ["6S0"],
 			scaryface: ["6S0"],
 			shadowsneak: ["6S0"],
@@ -63253,6 +63766,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gourgeist: {
 		learnset: {
+            skittersmack: ["8M"],
+            poltergeist: ["8M"],
+            grassyglide: ["8M"],
 			allyswitch: ["8M", "7T"],
 			astonish: ["8L1", "7L1", "6L1"],
 			attract: ["8M", "7M", "6M"],
@@ -63463,6 +63979,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	noibat: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			absorb: ["8L1", "7L5"],
 			acrobatics: ["8M", "7M", "6M"],
 			aerialace: ["7M", "6M"],
@@ -63535,6 +64052,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	noivern: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			absorb: ["8L1", "7L1"],
 			acrobatics: ["8M", "7M", "6M"],
 			aerialace: ["7M", "6M"],
@@ -64090,6 +64608,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rowlet: {
 		learnset: {
+            grassyglide: ["8M"],
+            dualwingbeat: ["8M"],
 			astonish: ["8L6", "7L11"],
 			attract: ["8M", "7M"],
 			batonpass: ["8M", "7E"],
@@ -64154,6 +64674,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dartrix: {
 		learnset: {
+            grassyglide: ["8M"],
+            dualwingbeat: ["8M"],
 			astonish: ["8L1", "7L11"],
 			attract: ["8M", "7M"],
 			batonpass: ["8M"],
@@ -64214,6 +64736,10 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	decidueye: {
 		learnset: {
+            skittersmack: ["8M"],
+            poltergeist: ["8M"],
+            grassyglide: ["8M"],
+            dualwingbeat: ["8M"],
 			acrobatics: ["8M", "7M"],
 			airslash: ["8M"],
 			astonish: ["8L1", "7L11"],
@@ -64419,6 +64945,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	incineroar: {
 		learnset: {
+            scorchingsands: ["8M"],
+            lashout: ["8M"],
+            burningjealousy: ["8M"],
 			acrobatics: ["8M", "7M"],
 			assurance: ["8M"],
 			attract: ["8M", "7M"],
@@ -64518,6 +65047,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	popplio: {
 		learnset: {
+            tripleaxel: ["8M"],
+            flipturn: ["8M"],
 			acrobatics: ["8M", "7M"],
 			amnesia: ["8M", "7E"],
 			aquajet: ["8L9", "7L14"],
@@ -64583,6 +65114,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	brionne: {
 		learnset: {
+            tripleaxel: ["8M"],
+            flipturn: ["8M"],
 			acrobatics: ["8M", "7M"],
 			amnesia: ["8M"],
 			aquajet: ["8L9", "7L14"],
@@ -64644,6 +65177,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	primarina: {
 		learnset: {
+            tripleaxel: ["8M"],
+            mistyexplosion: ["8M"],
+            flipturn: ["8M"],
 			acrobatics: ["8M", "7M"],
 			amnesia: ["8M"],
 			aquajet: ["8L9", "7L14"],
@@ -65065,6 +65601,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	grubbin: {
 		learnset: {
+            skittersmack: ["8M"],
+            risingvoltage: ["8M"],
 			acrobatics: ["8M", "7M", "7L19"],
 			attract: ["8M", "7M"],
 			bite: ["8L15", "7L10"],
@@ -65111,6 +65649,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	charjabug: {
 		learnset: {
+            skittersmack: ["8M"],
+            risingvoltage: ["8M"],
 			acrobatics: ["8M", "7M", "7L19"],
 			attract: ["8M", "7M"],
 			bite: ["8L15", "7L1"],
@@ -65160,6 +65700,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	vikavolt: {
 		learnset: {
+            skittersmack: ["8M"],
+            dualwingbeat: ["8M"],
 			acrobatics: ["8M", "7M", "7L19"],
 			agility: ["8M", "8L57", "7L49"],
 			airslash: ["8M", "7L1"],
@@ -65225,6 +65767,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	vikavolttotem: {
 		learnset: {
+            risingvoltage: ["8M"],
 			acrobatics: ["7M", "7L19", "7S0"],
 			agility: ["7L49"],
 			airslash: ["7L1"],
@@ -65463,6 +66006,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	cutiefly: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			absorb: ["8L1", "7L1"],
 			acrobatics: ["8M", "7M"],
 			aerialace: ["7M"],
@@ -65537,6 +66081,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	ribombee: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			absorb: ["8L1", "7L1"],
 			acrobatics: ["8M", "7M"],
 			aerialace: ["7M"],
@@ -65790,6 +66335,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	lycanroc: {
 		learnset: {
+            lashout: ["8M"],
 			accelerock: ["7L1"],
 			attract: ["7M"],
 			bite: ["7L1"],
@@ -65968,6 +66514,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	wishiwashi: {
 		learnset: {
+            scaleshot: ["8M"],
+            flipturn: ["8M"],
 			aquaring: ["8L36", "7L17"],
 			aquatail: ["8L32", "7T", "7L38"],
 			attract: ["8M", "7M"],
@@ -66211,6 +66759,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	mudsdale: {
 		learnset: {
+            lashout: ["8M"],
 			attract: ["8M", "7M"],
 			bide: ["7L22"],
 			bodypress: ["8M"],
@@ -66272,6 +66821,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dewpider: {
 		learnset: {
+            skittersmack: ["8M"],
 			aquaring: ["8L16", "7L24"],
 			attract: ["8M", "7M"],
 			aurorabeam: ["7E"],
@@ -66332,6 +66882,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	araquanid: {
 		learnset: {
+            skittersmack: ["8M"],
 			aquaring: ["8L16", "7L26"],
 			attract: ["8M", "7M"],
 			bite: ["8L1", "7L21"],
@@ -66450,6 +67001,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	fomantis: {
 		learnset: {
+            grassyglide: ["8M"],
 			aromatherapy: ["7E"],
 			attract: ["7M"],
 			bugbite: ["7T"],
@@ -66501,6 +67053,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	lurantis: {
 		learnset: {
+            grassyglide: ["8M"],
 			aerialace: ["7M"],
 			attract: ["7M"],
 			brickbreak: ["7M"],
@@ -66745,6 +67298,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	salandit: {
 		learnset: {
+            skittersmack: ["8M"],
+            scaleshot: ["8M"],
 			attract: ["8M", "7M"],
 			beatup: ["8M"],
 			belch: ["8E", "7E"],
@@ -66811,6 +67366,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	salazzle: {
 		learnset: {
+            skittersmack: ["8M"],
+            corrosivegas: ["8M"],
 			acrobatics: ["8M", "7M"],
 			attract: ["8M", "7M"],
 			beatup: ["8M"],
@@ -66893,6 +67450,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	salazzletotem: {
 		learnset: {
+            scaleshot: ["8M"],
 			acrobatics: ["7M"],
 			attract: ["7M"],
 			captivate: ["7L1"],
@@ -66958,6 +67516,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	stufful: {
 		learnset: {
+            coaching: ["8M"],
 			aerialace: ["7M"],
 			attract: ["8M", "7M"],
 			babydolleyes: ["8L4", "7L10"],
@@ -67023,6 +67582,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	bewear: {
 		learnset: {
+            coaching: ["8M"],
 			aerialace: ["7M"],
 			attract: ["8M", "7M"],
 			babydolleyes: ["8L1", "7L10", "7S0"],
@@ -67099,6 +67659,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	bounsweet: {
 		learnset: {
+            grassyglide: ["8M"],
 			acupressure: ["8E", "7E"],
 			aromatherapy: ["8L36"],
 			aromaticmist: ["8L32", "7L33"],
@@ -67153,6 +67714,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	steenee: {
 		learnset: {
+            tripleaxel: ["8M"],
+            grassyglide: ["8M"],
 			aromatherapy: ["8L46", "7L41"],
 			aromaticmist: ["8L40", "7L33"],
 			attract: ["8M", "7M"],
@@ -67215,6 +67778,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	tsareena: {
 		learnset: {
+            tripleaxel: ["8M"],
+            grassyglide: ["8M"],
 			acrobatics: ["8M", "7M"],
 			aromatherapy: ["8L46", "7L41"],
 			aromaticmist: ["8L40", "7L33"],
@@ -67287,6 +67852,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	comfey: {
 		learnset: {
+            grassyglide: ["8M"],
 			acrobatics: ["7M"],
 			afteryou: ["7T", "7E"],
 			allyswitch: ["7T"],
@@ -67364,6 +67930,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	oranguru: {
 		learnset: {
+            terrainpulse: ["8M"],
+            expandingforce: ["8M"],
 			afteryou: ["8L5", "7T", "7L4"],
 			allyswitch: ["8M", "7T", "7S1"],
 			attract: ["8M"],
@@ -67449,6 +68017,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	passimian: {
 		learnset: {
+            coaching: ["8M"],
 			acrobatics: ["8M", "7M"],
 			aerialace: ["7M"],
 			assurance: ["8M"],
@@ -67537,6 +68106,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	wimpod: {
 		learnset: {
+            skittersmack: ["8M"],
 			aquajet: ["8E", "7E"],
 			assurance: ["8M"],
 			attract: ["8M", "7M"],
@@ -67578,6 +68148,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	golisopod: {
 		learnset: {
+            skittersmack: ["8M"],
 			aerialace: ["7M"],
 			assurance: ["8M"],
 			attract: ["8M", "7M"],
@@ -67662,6 +68233,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sandygast: {
 		learnset: {
+            scorchingsands: ["8M"],
+            poltergeist: ["8M"],
 			absorb: ["7L1"],
 			afteryou: ["7T"],
 			amnesia: ["7E"],
@@ -67720,6 +68293,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	palossand: {
 		learnset: {
+            terrainpulse: ["8M"],
+            scorchingsands: ["8M"],
+            poltergeist: ["8M"],
 			absorb: ["7L1"],
 			afteryou: ["7T"],
 			astonish: ["7L1"],
@@ -67885,6 +68461,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	silvally: {
 		learnset: {
+            terrainpulse: ["8M"],
 			aerialace: ["8L1", "7M", "7L20"],
 			airslash: ["8M", "8L30", "7L60"],
 			bite: ["8L1", "7L15"],
@@ -68096,6 +68673,10 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	turtonator: {
 		learnset: {
+            scorchingsands: ["8M"],
+            scaleshot: ["8M"],
+            lashout: ["8M"],
+            burningjealousy: ["8M"],
 			attract: ["8M", "7M"],
 			block: ["7T"],
 			bodypress: ["8M"],
@@ -68180,6 +68761,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	togedemaru: {
 		learnset: {
+            risingvoltage: ["8M"],
 			afteryou: ["7T"],
 			agility: ["8M"],
 			assurance: ["8M"],
@@ -68260,6 +68842,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	togedemarutotem: {
 		learnset: {
+            steelroller: ["8M"],
 			afteryou: ["7T"],
 			attract: ["7M"],
 			bounce: ["7T"],
@@ -68327,6 +68910,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	mimikyu: {
 		learnset: {
+            burningjealousy: ["8M"],
 			afteryou: ["7T"],
 			astonish: ["8L1", "7L1", "7S1", "7S0"],
 			attract: ["8M", "7M"],
@@ -68557,6 +69141,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	drampa: {
 		learnset: {
+            scaleshot: ["8M"],
+            lashout: ["8M"],
 			amnesia: ["8M"],
 			attract: ["8M", "7M"],
 			blizzard: ["8M", "7M"],
@@ -68650,6 +69236,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dhelmise: {
 		learnset: {
+            steelroller: ["8M"],
+            poltergeist: ["8M"],
+            grassyglide: ["8M"],
 			absorb: ["8L1", "7L1"],
 			aerialace: ["7M"],
 			allyswitch: ["8M", "7T"],
@@ -68727,6 +69316,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	jangmoo: {
 		learnset: {
+            scaleshot: ["8M"],
 			aerialace: ["7M"],
 			aquatail: ["7T"],
 			attract: ["8M", "7M"],
@@ -68791,6 +69381,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	hakamoo: {
 		learnset: {
+            scaleshot: ["8M"],
+            coaching: ["8M"],
 			aerialace: ["7M"],
 			aquatail: ["7T"],
 			attract: ["8M", "7M"],
@@ -68859,6 +69451,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	kommoo: {
 		learnset: {
+            coaching: ["8M"],
 			aerialace: ["7M"],
 			aquatail: ["7T"],
 			attract: ["8M", "7M"],
@@ -68956,6 +69549,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	kommoototem: {
 		learnset: {
+            scaleshot: ["8M"],
 			aerialace: ["7M"],
 			aquatail: ["7T"],
 			attract: ["7M"],
@@ -69356,6 +69950,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	solgaleo: {
 		learnset: {
+            steelroller: ["8M"],
+            meteorbeam: ["8M"],
+            expandingforce: ["8M"],
 			agility: ["8M"],
 			bulldoze: ["8M", "7M"],
 			calmmind: ["8M", "7M"],
@@ -69445,6 +70042,10 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	lunala: {
 		learnset: {
+            poltergeist: ["8M"],
+            meteorbeam: ["8M"],
+            expandingforce: ["8M"],
+            dualwingbeat: ["8M"],
 			acrobatics: ["8M", "7M"],
 			aerialace: ["7M"],
 			agility: ["8M"],
@@ -69996,6 +70597,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	necrozma: {
 		learnset: {
+            expandingforce: ["8M"],
 			aerialace: ["7M"],
 			allyswitch: ["8M", "7T"],
 			autotomize: ["8L80", "7L47"],
@@ -70089,6 +70691,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	necrozmaduskmane: {
 		learnset: {
+            meteorbeam: ["8M"],
 			sunsteelstrike: ["8R", "7R"],
 		},
 		eventOnly: true,
@@ -70107,6 +70710,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	magearna: {
 		learnset: {
+            mistyexplosion: ["8M"],
 			afteryou: ["7T"],
 			aurasphere: ["7L81"],
 			aurorabeam: ["7L17"],
@@ -70175,6 +70779,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	magearnaoriginal: {
 		learnset: {
+            steelroller: ["8M"],
 			afteryou: ["7T"],
 			aurasphere: ["7L81"],
 			aurorabeam: ["7L17"],
@@ -70239,6 +70844,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	marshadow: {
 		learnset: {
+            skittersmack: ["8M"],
+            poltergeist: ["8M"],
+            coaching: ["8M"],
 			acrobatics: ["8M", "7M"],
 			agility: ["8M"],
 			assurance: ["8M", "8L36", "7L1"],
@@ -70561,6 +71169,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	zeraora: {
 		learnset: {
+            risingvoltage: ["8M"],
+            coaching: ["8M"],
 			acrobatics: ["8M", "7M"],
 			aerialace: ["7M"],
 			agility: ["8M", "8L80"],
@@ -70674,6 +71284,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	melmetal: {
 		learnset: {
+            steelroller: ["8M"],
 			acidarmor: ["8L32", "8V", "7L36"],
 			bodypress: ["8M"],
 			bodyslam: ["8M"],
@@ -70724,6 +71335,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	grookey: {
 		learnset: {
+            grassyglide: ["8M"],
 			acrobatics: ["8M"],
 			assurance: ["8M"],
 			attract: ["8M"],
@@ -70776,6 +71388,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	thwackey: {
 		learnset: {
+            grassyglide: ["8M"],
 			acrobatics: ["8M"],
 			assurance: ["8M"],
 			attract: ["8M"],
@@ -70822,6 +71435,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rillaboom: {
 		learnset: {
+            grassyglide: ["8M"],
 			acrobatics: ["8M"],
 			assurance: ["8M"],
 			attract: ["8M"],
@@ -70996,6 +71610,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	cinderace: {
 		learnset: {
+            scorchingsands: ["8M"],
+            coaching: ["8M"],
 			acrobatics: ["8M"],
 			agility: ["8M", "8L24"],
 			allyswitch: ["8M"],
@@ -71145,6 +71761,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	inteleon: {
 		learnset: {
+            scaleshot: ["8M"],
 			acrobatics: ["8M", "8L1"],
 			agility: ["8M"],
 			airslash: ["8M"],
@@ -71301,6 +71918,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rookidee: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			agility: ["8M"],
 			airslash: ["8M"],
 			assurance: ["8M"],
@@ -71347,6 +71965,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	corvisquire: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			agility: ["8M"],
 			airslash: ["8M"],
 			assurance: ["8M"],
@@ -71386,6 +72005,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	corviknight: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			agility: ["8M"],
 			airslash: ["8M"],
 			assurance: ["8M"],
@@ -71450,6 +72070,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dottler: {
 		learnset: {
+            expandingforce: ["8M"],
 			allyswitch: ["8M"],
 			attract: ["8M"],
 			bodypress: ["8M"],
@@ -71493,6 +72114,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	orbeetle: {
 		learnset: {
+            expandingforce: ["8M"],
 			afteryou: ["8L40"],
 			agility: ["8M", "8L12"],
 			allyswitch: ["8M", "8L24"],
@@ -71549,6 +72171,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	nickit: {
 		learnset: {
+            lashout: ["8M"],
 			agility: ["8M"],
 			assurance: ["8M", "8L16"],
 			attract: ["8M"],
@@ -71587,6 +72210,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	thievul: {
 		learnset: {
+            lashout: ["8M"],
+            burningjealousy: ["8M"],
 			acrobatics: ["8M"],
 			agility: ["8M"],
 			assurance: ["8M", "8L16"],
@@ -71635,6 +72260,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gossifleur: {
 		learnset: {
+            grassyglide: ["8M"],
 			aromatherapy: ["8L32"],
 			attract: ["8M"],
 			bulletseed: ["8M"],
@@ -71676,6 +72302,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	eldegoss: {
 		learnset: {
+            grassyglide: ["8M"],
 			aromatherapy: ["8L40"],
 			attract: ["8M"],
 			bulletseed: ["8M"],
@@ -71717,6 +72344,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	wooloo: {
 		learnset: {
+            grassyglide: ["8M"],
 			agility: ["8M"],
 			attract: ["8M"],
 			copycat: ["8L8"],
@@ -71750,6 +72378,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dubwool: {
 		learnset: {
+            grassyglide: ["8M"],
 			agility: ["8M"],
 			attract: ["8M"],
 			batonpass: ["8M"],
@@ -71791,6 +72420,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	chewtle: {
 		learnset: {
+            skittersmack: ["8M"],
+            scaleshot: ["8M"],
 			assurance: ["8M"],
 			attract: ["8M"],
 			bite: ["8L7"],
@@ -71825,6 +72456,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	drednaw: {
 		learnset: {
+            skittersmack: ["8M"],
+            scaleshot: ["8M"],
+            meteorbeam: ["8M"],
 			assurance: ["8M"],
 			attract: ["8M"],
 			bite: ["8L1"],
@@ -71932,6 +72566,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	boltund: {
 		learnset: {
+            risingvoltage: ["8M"],
 			agility: ["8M"],
 			attract: ["8M"],
 			bite: ["8L1"],
@@ -71978,6 +72613,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rolycoly: {
 		learnset: {
+            meteorbeam: ["8M"],
 			ancientpower: ["8L20"],
 			attract: ["8M"],
 			block: ["8E"],
@@ -72017,6 +72653,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	carkol: {
 		learnset: {
+            scorchingsands: ["8M"],
+            meteorbeam: ["8M"],
 			ancientpower: ["8L20"],
 			attract: ["8M"],
 			bodypress: ["8M"],
@@ -72065,6 +72703,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	coalossal: {
 		learnset: {
+            scorchingsands: ["8M"],
+            meteorbeam: ["8M"],
 			ancientpower: ["8L20"],
 			attract: ["8M"],
 			bodypress: ["8M"],
@@ -72124,6 +72764,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	applin: {
 		learnset: {
+            grassyglide: ["8M"],
 			astonish: ["8L1"],
 			attract: ["8M"],
 			defensecurl: ["8E"],
@@ -72136,6 +72777,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	flapple: {
 		learnset: {
+            grassyglide: ["8M"],
+            dualwingbeat: ["8M"],
 			acidspray: ["8L4"],
 			acrobatics: ["8M", "8L8"],
 			airslash: ["8M"],
@@ -72181,6 +72824,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	appletun: {
 		learnset: {
+            grassyglide: ["8M"],
 			amnesia: ["8M"],
 			appleacid: ["8L28"],
 			astonish: ["8L1"],
@@ -72231,6 +72875,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	silicobra: {
 		learnset: {
+            skittersmack: ["8M"],
+            scorchingsands: ["8M"],
+            scaleshot: ["8M"],
 			attract: ["8M"],
 			belch: ["8E"],
 			brutalswing: ["8M", "8L10"],
@@ -72266,6 +72913,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sandaconda: {
 		learnset: {
+            skittersmack: ["8M"],
+            scorchingsands: ["8M"],
+            scaleshot: ["8M"],
 			attract: ["8M"],
 			bodypress: ["8M"],
 			brutalswing: ["8M", "8L1"],
@@ -72312,6 +72962,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	cramorant: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			aerialace: ["8E"],
 			agility: ["8M"],
 			airslash: ["8M"],
@@ -72366,6 +73017,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	arrokuda: {
 		learnset: {
+            scaleshot: ["8M"],
 			acupressure: ["8E"],
 			agility: ["8M", "8L18"],
 			aquajet: ["8L1"],
@@ -72408,6 +73060,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	barraskewda: {
 		learnset: {
+            scaleshot: ["8M"],
+            flipturn: ["8M"],
 			agility: ["8M", "8L18"],
 			aquajet: ["8L1"],
 			assurance: ["8M"],
@@ -72474,6 +73128,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	toxtricity: {
 		learnset: {
+            risingvoltage: ["8M"],
 			acid: ["8L1"],
 			acidspray: ["8L1"],
 			attract: ["8M"],
@@ -72602,6 +73257,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sizzlipede: {
 		learnset: {
+            skittersmack: ["8M"],
+            scorchingsands: ["8M"],
 			attract: ["8M"],
 			bite: ["8L10"],
 			brutalswing: ["8M"],
@@ -72641,6 +73298,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	centiskorch: {
 		learnset: {
+            burningjealousy: ["8M"],
+            skittersmack: ["8M"],
+            scorchingsands: ["8M"],
 			attract: ["8M"],
 			bite: ["8L1"],
 			brutalswing: ["8M"],
@@ -72689,6 +73349,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	clobbopus: {
 		learnset: {
+            coaching: ["8M"],
+            coaching: ["8M"],
 			attract: ["8M"],
 			bind: ["8L10"],
 			bodyslam: ["8M"],
@@ -72734,6 +73396,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	grapploct: {
 		learnset: {
+            skittersmack: ["8M"],
+            coaching: ["8M"],
 			attract: ["8M"],
 			bind: ["8L1"],
 			bodyslam: ["8M"],
@@ -72786,6 +73450,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sinistea: {
 		learnset: {
+            poltergeist: ["8M"],
 			allyswitch: ["8M"],
 			aromatherapy: ["8L30"],
 			aromaticmist: ["8L6"],
@@ -72824,6 +73489,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	polteageist: {
 		learnset: {
+            poltergeist: ["8M"],
 			allyswitch: ["8M"],
 			aromatherapy: ["8L30"],
 			aromaticmist: ["8L1"],
@@ -72870,6 +73536,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	hatenna: {
 		learnset: {
+            expandingforce: ["8M"],
 			afteryou: ["8E"],
 			aromatherapy: ["8L15"],
 			aromaticmist: ["8E"],
@@ -72914,6 +73581,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	hattrem: {
 		learnset: {
+            expandingforce: ["8M"],
 			aromatherapy: ["8L15"],
 			attract: ["8M"],
 			batonpass: ["8M"],
@@ -72955,6 +73623,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	hatterene: {
 		learnset: {
+            mistyexplosion: ["8M"],
+            expandingforce: ["8M"],
 			aromatherapy: ["8L15"],
 			attract: ["8M"],
 			batonpass: ["8M"],
@@ -73010,6 +73680,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	impidimp: {
 		learnset: {
+            lashout: ["8M"],
+            burningjealousy: ["8M"],
 			assurance: ["8M", "8L16"],
 			attract: ["8M"],
 			bite: ["8L4"],
@@ -73051,6 +73723,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	morgrem: {
 		learnset: {
+            lashout: ["8M"],
+            burningjealousy: ["8M"],
 			assurance: ["8M", "8L16"],
 			attract: ["8M"],
 			bite: ["8L1"],
@@ -73097,6 +73771,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	grimmsnarl: {
 		learnset: {
+            lashout: ["8M"],
+            burningjealousy: ["8M"],
 			assurance: ["8M", "8L16"],
 			attract: ["8M"],
 			bite: ["8L1"],
@@ -73196,6 +73872,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	alcremie: {
 		learnset: {
+            mistyexplosion: ["8M"],
 			acidarmor: ["8L30"],
 			aromatherapy: ["8L20"],
 			aromaticmist: ["8L1"],
@@ -73246,6 +73923,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	falinks: {
 		learnset: {
+            coaching: ["8M"],
 			agility: ["8M"],
 			assurance: ["8M"],
 			beatup: ["8M"],
@@ -73292,6 +73970,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	pincurchin: {
 		learnset: {
+            risingvoltage: ["8M"],
 			acupressure: ["8L55"],
 			assurance: ["8M"],
 			attract: ["8M"],
@@ -73342,6 +74021,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	snom: {
 		learnset: {
+            skittersmack: ["8M"],
 			attract: ["8M"],
 			bugbite: ["8E"],
 			bugbuzz: ["8M"],
@@ -73363,6 +74043,9 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	frosmoth: {
 		learnset: {
+            tripleaxel: ["8M"],
+            skittersmack: ["8M"],
+            dualwingbeat: ["8M"],
 			acrobatics: ["8M"],
 			airslash: ["8M"],
 			attract: ["8M", "8L1"],
@@ -73412,6 +74095,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	stonjourner: {
 		learnset: {
+            meteorbeam: ["8M"],
 			ancientpower: ["8E"],
 			assurance: ["8M"],
 			attract: ["8M"],
@@ -73506,6 +74190,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	indeedee: {
 		learnset: {
+            expandingforce: ["8M"],
 			afteryou: ["8L25"],
 			allyswitch: ["8M"],
 			aromatherapy: ["8L30"],
@@ -73558,6 +74243,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	indeedeef: {
 		learnset: {
+            terrainpulse: ["8M"],
 			allyswitch: ["8M"],
 			aromatherapy: ["8L30"],
 			attract: ["8M"],
@@ -73610,6 +74296,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	morpeko: {
 		learnset: {
+            risingvoltage: ["8M"],
+            lashout: ["8M"],
 			agility: ["8M", "8L40"],
 			assurance: ["8M"],
 			attract: ["8M"],
@@ -73676,6 +74364,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	cufant: {
 		learnset: {
+            steelroller: ["8M"],
 			attract: ["8M"],
 			belch: ["8E"],
 			bodypress: ["8M"],
@@ -73728,6 +74417,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	copperajah: {
 		learnset: {
+            steelroller: ["8M"],
 			attract: ["8M"],
 			bodypress: ["8M"],
 			bodyslam: ["8M"],
@@ -73785,6 +74475,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dracozolt: {
 		learnset: {
+            risingvoltage: ["8M"],
+            meteorbeam: ["8M"],
 			aerialace: ["8L14"],
 			ancientpower: ["8L21"],
 			bodyslam: ["8M"],
@@ -73849,6 +74541,8 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	arctozolt: {
 		learnset: {
+            risingvoltage: ["8M"],
+            meteorbeam: ["8M"],
 			ancientpower: ["8L21"],
 			avalanche: ["8M", "8L35"],
 			blizzard: ["8M", "8L77"],
@@ -73909,6 +74603,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dracovish: {
 		learnset: {
+            meteorbeam: ["8M"],
 			ancientpower: ["8L21"],
 			bite: ["8L28"],
 			bodyslam: ["8M"],
@@ -73966,6 +74661,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	arctovish: {
 		learnset: {
+            meteorbeam: ["8M"],
 			ancientpower: ["8L21"],
 			auroraveil: ["8L35"],
 			avalanche: ["8M"],
@@ -74018,6 +74714,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	duraludon: {
 		learnset: {
+            steelroller: ["8M"],
 			attract: ["8M"],
 			bodypress: ["8M"],
 			bodyslam: ["8M"],
@@ -74291,6 +74988,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	zamazenta: {
 		learnset: {
+            coaching: ["8M"],
 			agility: ["8M"],
 			bite: ["8L1"],
 			closecombat: ["8M", "8L77"],
@@ -74360,6 +75058,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	eternatus: {
 		learnset: {
+            meteorbeam: ["8M"],
 			agility: ["8M", "8L1"],
 			assurance: ["8M"],
 			brutalswing: ["8M"],
@@ -74410,6 +75109,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	kubfu: {
 		learnset: {
+            coaching: ["8M"],
 			endure: ["8S0"],
 			focusenergy: ["8S0"],
 			leer: ["8S0"],
@@ -74418,6 +75118,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	urshifu: {
 		learnset: {
+            coaching: ["8M"],
 		acrobatics: ["8M"],
 		aerialace: ["8M"],
 		assurance: ["8M"],
@@ -74488,9 +75189,12 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	urshifurapidstrike: {
 		learnset: {},
+            lashout: ["8M"],
 	},
 	zarude: {
 		learnset: {
+            lashout: ["8M"],
+            grassyglide: ["8M"],
 
 		acrobatics: ["8M"],
 		assurance: ["8M"],
@@ -75744,6 +76448,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	snaelstrom: {
 		learnset: {
+            corrosivegas: ["8M"],
 			allyswitch: ["8M"],
 			aquajet: ["8L17", "7L17"],
 			aquaring: ["8L1", "7L1"],
@@ -75973,6 +76678,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	syclant: {
 		learnset: {
+            dualwingbeat: ["8M"],
 			absorb: ["8L1", "7L1"],
 			attract: ["8M", "7M", "4M"],
 			avalanche: ["8M", "8L50", "7L50", "4M", "4L49"],
@@ -76254,6 +76960,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	fidgit: {
 		learnset: {
+            expandingforce: ["8M"],
 			acrobatics: ["8M", "7M"],
 			aerialace: ["7M", "4M"],
 			afteryou: ["7T"],
@@ -77153,6 +77860,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	flarelm: {
 		learnset: {
+            flipturn: ["8M"],
 			amnesia: ["7L37"],
 			ancientpower: ["4T"],
 			attract: ["7M", "4M"],
@@ -77233,6 +77941,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	breezi: {
 		learnset: {
+            grassyglide: ["8M"],
 			acrobatics: ["7M", "7L59"],
 			aerialace: ["7M", "7L30", "4M", "4L55"],
 			afteryou: ["7T"],
@@ -77773,6 +78482,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	snugglow: {
 		learnset: {
+            terrainpulse: ["8M"],
 			acid: ["6L12"],
 			aquatail: ["6L32"],
 			attract: ["6M"],
@@ -78553,6 +79263,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	smoguana: {
 		learnset: {
+            lashout: ["8M"],
 			attract: ["7M"],
 			brickbreak: ["7M"],
 			bulkup: ["7M"],
@@ -78613,6 +79324,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	swirlpool: {
 		learnset: {
+            meteorbeam: ["8M"],
 			acidarmor: ["8E", "7E"],
 			aquajet: ["7L16"],
 			attract: ["7M"],
