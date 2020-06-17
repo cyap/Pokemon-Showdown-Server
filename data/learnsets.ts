@@ -74417,6 +74417,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 		},
 	},
 	urshifu: {
+		learnset: {
 		acrobatics: ["8M"],
 		aerialace: ["8M"],
 		assurance: ["8M"],
@@ -74483,6 +74484,7 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 		wickedblow: ["8M"],
 		workup: ["8M"],
 		zenheadbutt: ["8M"],
+		}
 	},
 	urshifurapidstrike: {
 		learnset: {},
